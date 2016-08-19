@@ -1,2 +1,5 @@
-# clock_evo
-This repository contains all the files for the circadian clock evolution experiment using AVIDA
+# Evolution of circadian clocks using digital organisms
+
+This repo is currently under construction.
+
+
