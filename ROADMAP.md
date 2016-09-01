@@ -1,4 +1,4 @@
-## Roadmap [under construction]
+## Roadmap
 
 ### Goal
 
