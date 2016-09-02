@@ -2,13 +2,15 @@
 
 ### Goal
 
+Add some text here...
+
 ### Timeline
 
 #### September
 
 - [x] Create Repo, Readme, Code of Conduct, License, Contribution Guidelines and Roadmap
 - [ ] Create Wiki and add information about the project
-- [ ] Attent Kick-Off meeting in Berlin [9-11.September]
+- [ ] Attend Kick-Off meeting in Berlin [9-11.September]
 - [ ] Get AVIDA running and get familiar with all options and setting
 
 #### October
