@@ -40,6 +40,6 @@ $ conda install -y numpy scipy matplotlib scikit-learn ipython-notebook seaborn
 
 Alternatively, you can download and install the (very large) Anaconda software distribution, found at [https://store.continuum.io/downloads](https://www.continuum.io/downloads).
 
-#### License
+### License
 
 The project is released under the CC-BY-SA 4.0 license. You can find more information [here](https://github.com/schmelling/clock_evo/blob/master/LICENSE.md).
