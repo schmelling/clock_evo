@@ -1,4 +1,4 @@
-## Contributing to the project [under construction]
+## Contributing to the project
 **Note: The following contribution instructions are copied from the [scikit-learn](https://github.com/scikit-learn/scikit-learn) repo and edited.**
 
 The simplest way you can join in with this repo is to:
