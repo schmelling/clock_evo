@@ -3,11 +3,11 @@
 
 ## Evolution of circadian clocks using digital organisms [under construction]
 
-This repository contains all materials and resources related to this project. 
+This repository contains all materials and resources related to this project.
 
 #### Short project description
 
-TEXT TEXT TEXT TEXT TEXT
+Add some text here please.
 
 ### How to contribute
 
