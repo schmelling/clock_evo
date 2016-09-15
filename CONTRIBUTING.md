@@ -32,7 +32,7 @@ $ git push origin master
 ```
 Go to the GitHub web page of your fork of the clock_evo repo. Click the 'Pull request' button to send your changes to the project's maintainers for review. This will send an email to the committers.
 
-(For more information about Git, please look up the [Git documentation](https://git-scm.com/documentation) or check out the [GitHub Cheat Sheet](https://services.github.com/kit/downloads/github-git-cheat-sheet.pdf).)
+(For more information about Git, please look up the [Git documentation](https://git-scm.com/documentation), watch the [Pycon 2016 Tutorial](https://www.youtube.com/watch?v=RrdECLvHW6g) or check out the [GitHub Cheat Sheet](https://services.github.com/kit/downloads/github-git-cheat-sheet.pdf).)
 
 ### Pull Requests
 
