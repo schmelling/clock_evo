@@ -11,15 +11,15 @@ TEXT TEXT TEXT TEXT TEXT
 
 ### How to contribute
 
-If your are interested in contributing to the project, please read the [contribution instructions](https://github.com/schmelling/clock_evo/blob/master/CONTRIBUTING.md) first.
+If you are interested in contributing to the project, please read the [contribution instructions](https://github.com/schmelling/clock_evo/blob/master/CONTRIBUTING.md) first.
 
 ### Installation
 
 #### AVIDA
 
-All of the evolutionary experiments will be run in the AVIDA platform for digital evolution. For the installation please read their installation instructions on their [GitHub repository](https://github.com/devosoft/avida). For Mac OS X and Windows a binary installer is available on [devosoft.org](http://avida.devosoft.org).
+All of the evolutionary experiments will be run in the AVIDA platform for digital evolution. For the installation, please read their installation instructions on their [GitHub repository](https://github.com/devosoft/avida). For Mac OS X and Windows, a binary installer is available on [devosoft.org](http://avida.devosoft.org).
 
-Alternatively, you can run AVIDA inside of a [docker container](https://www.docker.com/what-docker). Therefore download and install [docker](https://www.docker.com/products/overview) run:
+Alternatively, you can run AVIDA inside of a [docker container](https://www.docker.com/what-docker). To do this, download and install [docker](https://www.docker.com/products/overview) and run:
 
 ```bash
 $ docker pull bigscience/avida
