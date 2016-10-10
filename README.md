@@ -48,4 +48,4 @@ Alternatively, you can download and install the (very large) Anaconda software d
 
 ### License
 
-The project is released under the CC-BY-SA 4.0 license. You can find more information [here](https://github.com/schmelling/clock_evo/blob/master/LICENSE.md).
+The project is released under the CC0 license. You can find more information [here](https://github.com/schmelling/clock_evo/blob/master/LICENSE.md).
