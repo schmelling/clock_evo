@@ -1,7 +1,7 @@
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/schmelling/clock_evo/issues)
 [![Twitter](https://img.shields.io/badge/Tweet-@DerSchmelling-green.svg?style=social)](https://twitter.com/derschmelling)
 
-## Evolution of circadian clocks using digital organisms [under construction]
+## Evolution of circadian clocks using digital organisms
 
 This repository contains all materials and resources related to this project.
 
@@ -15,9 +15,9 @@ If you are interested in contributing to the project, please read the [contribut
 
 ### Installation
 
-#### AVIDA
+#### Avida
 
-All of the evolutionary experiments will be run in the AVIDA platform for digital evolution. For the installation, please read their installation instructions on their [GitHub repository](https://github.com/devosoft/avida). For Mac OS X and Windows, a binary installer is available on [devosoft.org](http://avida.devosoft.org).
+All of the evolutionary experiments will be run in the Avida platform for digital evolution. For the installation, please read their installation instructions on their [GitHub repository](https://github.com/devosoft/avida). For Mac OS X and Windows, a binary installer is available on [devosoft.org](http://avida.devosoft.org).
 
 #### Python
 
