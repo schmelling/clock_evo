@@ -23,8 +23,13 @@ Goals of the fellow program:
 
 The discussion helped my a lot to formulate my statement, but we also agreed that the formulation was a little bit misleading.
 
-```During my project I will work on the evolution of circadian clocks using digital organisms. In the process the code and the data will be available under an open license on GitHub. Furthermore I will write about my progress, problems, and thoughts in an open lab notebook.```
-
+__Open Science Statement__
+```
+During my project I will work on the evolution of circadian clocks using digital organisms.
+In the process the code and the data will be available under an open license on GitHub.
+Furthermore I will write about my progress, problems, and thoughts in an open lab notebook.
+```
+### Improvements to the fellow program
 Since this is the pilot run of the fellowship one would expect some imperfections, which is prefectly fine. Daniel and I thought that some kind of forum where we could discuss such misunderstandings would be useful.
 
 Some ideas:
@@ -42,6 +47,6 @@ The fellowship allowed me to start a new project on the evolution of circadian c
 
 ### Python Reference List
 
-I will analyze and visualize the data produced in the project using Python and this got me thinking about other people that want to contribute to the project but do not know much about Python. Therefore I will try to create a reference list for Python. This will at first be a [GitHub repo]() where I sort links to books, videos, online tutorials and more, in categories. This repo will thus manly contain various markdown files.
+I will analyze and visualize the data produced in the project using Python and this got me thinking about other people that want to contribute to the project but do not know much about Python. Therefore I will try to create a reference list for Python. This will at first be a [GitHub repo](https://github.com/schmelling/python_materials) where I sort links to books, videos, online tutorials and more, in categories. This repo will thus manly contain various markdown files.
 
 -- Cheers, Nic
