@@ -2,9 +2,11 @@
 
 The open lab notebook includes blog-like entries in markdown format, which contain detailed description of my progress, problems I encountered, and thoughts about the project or side projects that arose in the process. Furthermore the open lab notebook includes weekly updates about my progress and outlook. These reports will be published as issues in the GitHub repository.
 
-## Blog/diary-like entries
+## Blog-like entries
 
 ### Content
+
+* [Open Science Statement](https://github.com/schmelling/clock_evo/blob/master/open_notebook/2016-10-14-open-science-statement.md)
 
 ## Reporting Workflow
 

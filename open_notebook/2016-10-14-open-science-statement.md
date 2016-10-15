@@ -23,7 +23,7 @@ Goals of the fellow program:
 
 The discussion helped my a lot to formulate my statement, but we also agreed that the formulation was a little bit misleading.
 
-```My Open Science statement```
+```During my project I will work on the evolution of circadian clocks using digital organisms. In the process the code and the data will be available under an open license on GitHub. Furthermore I will write about my progress, problems, and thoughts in an open lab notebook.```
 
 Since this is the pilot run of the fellowship one would expect some imperfections, which is prefectly fine. Daniel and I thought that some kind of forum where we could discuss such misunderstandings would be useful.
 
