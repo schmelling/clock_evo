@@ -1,13 +1,17 @@
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/schmelling/clock_evo/issues)
 [![Twitter](https://img.shields.io/badge/Tweet-@DerSchmelling-green.svg?style=social)](https://twitter.com/derschmelling)
 
-## Evolution of circadian clocks using digital organisms [under construction]
+## Evolution of circadian clocks using digital organisms
 
 This repository contains all materials and resources related to this project.
 
 #### Short project description
 
-Within this project I'll try to elucidate the mechanisms underlying the evolution of circadian clocks. Circadian clocks are cellular mechanisms that anticipate the occurence of events and thus present an advantage to organisms, which contain such a timing mechanism. Since it is hard to study the fitness advantage in a laboratory setting, I'll work with digital organisms in the Avida software platform. Digital organisms have a great advantage over standard experimental setting, because it is easy to measure anything with arbitrary precision. For more information about the circadian clocks and digital organisms, please visit the [wiki](https://github.com/schmelling/clock_evo/wiki) of this GitHub repository. A detailed despription of the experimental set up can be found in the [roadmap](https://github.com/schmelling/clock_evo/blob/master/ROADMAP.md), and notes and orther thoughts relating my progress can be found in my [open lab notebook](https://github.com/schmelling/clock_evo/tree/master/open_notebook).
+Within this project I'll try to elucidate the mechanisms underlying the evolution of circadian clocks. Circadian clocks are cellular mechanisms that anticipate the occurence of events and thus present an advantage to organisms, which contain such a timing mechanism. Since it is hard to study the fitness advantage in a laboratory setting, I'll work with digital organisms in the Avida software platform. Digital organisms have a great advantage over standard experimental setting, because it is easy to measure anything with arbitrary precision. For more information about the circadian clocks and digital organisms, please visit the [background information](https://github.com/schmelling/clock_evo/tree/master/background_info) of this GitHub repository. A detailed despription of the experimental set up can be found in the [roadmap](https://github.com/schmelling/clock_evo/blob/master/ROADMAP.md), and notes and orther thoughts relating my progress can be found in my [open lab notebook](https://github.com/schmelling/clock_evo/tree/master/open_notebook).
+
+### Open Science Statement
+
+During my project I will work on the evolution of circadian clocks using digital organisms. In the process the code and the data will be available under an open license on GitHub. Furthermore I will write about my progress, problems, and thoughts in an open lab notebook.
 
 ### How to contribute
 
@@ -15,9 +19,9 @@ If you are interested in contributing to the project, please read the [contribut
 
 ### Installation
 
-#### AVIDA
+#### Avida
 
-All of the evolutionary experiments will be run in the AVIDA platform for digital evolution. For the installation, please read their installation instructions on their [GitHub repository](https://github.com/devosoft/avida). For Mac OS X and Windows, a binary installer is available on [devosoft.org](http://avida.devosoft.org).
+All of the evolutionary experiments will be run in the Avida platform for digital evolution. For the installation, please read their installation instructions on their [GitHub repository](https://github.com/devosoft/avida). For Mac OS X and Windows, a binary installer is available on [devosoft.org](http://avida.devosoft.org).
 
 #### Python
 
