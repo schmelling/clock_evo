@@ -43,19 +43,16 @@ Ouyang, Yan and Andersson, Carol R. and Kondo, Takao and Golden, Susan S. and Jo
 
 Woelfle, Mark A. and Ouyang, Yan and Phanvijhitsiri, Kittiporn and Johnson, Carl Hirsche. The Adaptive Value of Circadian Clocks: An Experimental Assessment in Cyanobacteria. 2004. Current Biology. 14, 1481-1486
 
-- [x] [Life before the Clock: Modeling Circadian Evolution](http://jbr.sagepub.com/content/17/6/495.abstract)     
+Roenneberg, Till and Merrow Martha. Life before the Clock: Modeling Circadian Evolution. 2002. [Journal of Biological Rhythms. 17(6), 495-505](http://jbr.sagepub.com/content/17/6/495.abstract)     
 
-- [x] [Sleep, Circadian Rhythms, and Interval Timing: Evolutionary Strategies to Time Information](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3250947/)
+Zyga, Lisa. How did evolution optimize circadian clocks?. 2014. [Phys.org](http://phys.org/news/2014-09-evolution-optimize-circadian-clocks.html)    
 
-- [x] [How did evolution optimize circadian clocks?](http://phys.org/news/2014-09-evolution-optimize-circadian-clocks.html)    
-The model provides several insights into circadian clocks at the molecular level. For instance, the model shows that role sharing between two input pathways yields a synchronization advantage, and agrees with experimental evidence for the advance and delay roles of two different input pathways. [Yoshihiko Hasegawa and Masanori Arita. "Optimal Implementations for Reliable Circadian Clocks." Physical Review Letters. DOI: 10.1103/PhysRevLett.113.108101]
+Rué, Pau and Garcia-Ojalvo, Jordi. Modeling Gene Expression in Time and Space. 2013. [Annual Review of Biophysics. 42, 605-627](http://www.annualreviews.org/doi/abs/10.1146/annurev-biophys-083012-130335)
 
-- [x] [Modeling Gene Expression in Time and Space](http://www.annualreviews.org/doi/abs/10.1146/annurev-biophys-083012-130335)
+Circadian Rhythms: "Nature's Intricate Clockwork". 2012. [Evolution News and Views](http://www.evolutionnews.org/2012/09/circadian_rhyth063881.html)    
 
-- [x] [Circadian Rhythms: "Nature's Intricate Clockwork"](http://www.evolutionnews.org/2012/09/circadian_rhyth063881.html)    
+Paranjpe, Dhanashree A. and Sharma, Vijay Kumar. Evolution of temporal order in living organisms. 2005. [Journal of Circadian Rhythms. 3(7)](http://www.jcircadianrhythms.com/articles/10.1186/1740-3391-3-7/)    
 
-- [x] [Evolution of temporal order in living organisms](http://www.jcircadianrhythms.com/articles/10.1186/1740-3391-3-7/)    
+Zivkovic, Bora. Clock Evolution. 2012. [Scientific American](http://blogs.scientificamerican.com/a-blog-around-the-clock/clock-evolution/)    
 
-- [x] [Clock Evolution](http://blogs.scientificamerican.com/a-blog-around-the-clock/clock-evolution/)    
-
-- [x] [Evolution of KaiC-Dependent Timekeepers](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1005922) 
+Ma, Peijun and Mori, Tetsuya and Zhao, Chi and Thiel, Teresa and Johnson, Carl Hirschie. Evolution of KaiC-Dependent Timekeepers: A Proto-circadian Timing Mechanism Confers Adaptive Fitness in the Purple Bacterium _Rhodopseudomonas palustris_. 2016. [PLOS Genetics. 12(3)](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1005922) 
