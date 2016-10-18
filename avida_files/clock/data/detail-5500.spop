@@ -1,0 +1,361 @@
+#filetype genotype_data
+#format id src src_args parents num_units total_units length merit gest_time fitness gen_born update_born update_deactivated depth hw_type inst_set sequence cells gest_offset lineage 
+# Structured Population Save
+# Tue Oct 18 10:51:05 2016
+#  1: ID
+#  2: Source
+#  3: Source Args
+#  4: Parent ID(s)
+#  5: Number of currently living organisms
+#  6: Total number of organisms that ever existed
+#  7: Genome Length
+#  8: Average Merit
+#  9: Average Gestation Time
+# 10: Average Fitness
+# 11: Generation Born
+# 12: Update Born
+# 13: Update Deactivated
+# 14: Phylogenetic Depth
+# 15: Hardware Type ID
+# 16: Inst Set Name
+# 17: Genome Sequence
+# 18: Occupied Cell IDs
+# 19: Gestation (CPU) Cycle Offsets
+# 20: Lineage Label
+
+46 div:int (none) 27 4 9 101 98 387 0.25323 7 2743 -1 5 0 clock wCcagccccccccccccccccccccccccccccccccpcccccccccjccccccccccccccccBcccccsccBcccccccccccccdccccCvfcaxgab 6,67,127,3546 99,132,165,132 0,0,0,0 
+391 div:int (none) 303 2 2 102 90 377 0.238727 13 5058 -1 10 0 clock wCcagccccccccccccBcccccccccccccccccccpcchckccccbjccccccccccscncccBcccccsccBCccccccccccccdccccCvfcaxgab 10,3549 47,47 0,0 
+345 div:int (none) 84 1 1 100 97 385 0.251948 13 4964 -1 5 0 clock wCcagcccccccccccccccccccccclcccccccccccccccccccccsccccccccccccccccccccccccccccBcpcccccccccqCvfcaxgab 55 205 0 
+322 div:int (none) 109 2 2 100 97 386 0.251295 13 4899 -1 4 0 clock wCcagcccccccccctccccccccccccccccccccccccncccccccccccccccccccccccccccccccccccccycccccccccccACvfcaxgab 420,539 249,249 0,0 
+529 div:int (none) 400 1 1 100 0 0 0 14 5495 -1 7 0 clock wCcagcccccccccccccccvccccpccccczccccccCcccccccccckcccwccccccccccccccccccccccccccpcceaccccccCvfcaxgab 594 27 0 
+207 div:int (none) 153 5 5 100 96 383 0.250653 11 4268 -1 4 0 clock wCcagccccccccccccccccccccrcccceccccccpcccccccCjccccccccccccjccccccccccccccccccccccccczcccccCvfcaxgab 3057,3060,3118,3179,3180 175,109,175,142,142 0,0,0,0,0 
+414 div:int (none) 323 1 1 100 0 0 0 14 5261 -1 8 0 clock wCcagccccccccccBccccncccccccccccccccspcccccccccjcccrcccccccccccBcccccjccBcccccpccccccccAcccCvfcaxgab 3065 273 0 
+506 div:int (none) 301 1 1 101 0 0 0 14 5407 -1 8 0 clock wCcagcccccccccirccccccccccccccccccccccccccccccCjccccccccccccccccccccjccccccccrsccqccccxcccccCvfcaxgab 3126 112 0 
+184 div:int (none) 78 1 2 105 95 394 0.241117 11 4214 -1 7 0 clock aaaawCcagcccccccccccccccccchcccccccccccccpcccccccccjcccccccCccccccccBccccccccBcccccpceccccccccccCvfcaxgab 3183 161 0 
+437 div:int (none) 173 1 1 100 0 0 0 14 5315 -1 7 0 clock wCcagccccccccccccccccccmccclccccccccccccccdcccdccscccccccccccccccccccccwccccccdcpccccccccccCvfcaxgab 3357 198 0 
+368 div:int (none) 194 1 1 101 89 377 0.236074 13 5000 -1 8 0 clock wCcagcccccccccccccccccccccccwccccccrcpcccccccccjccccccccccccccrBcyccccccBuccccCccccccbccccccCvfcaxgab 3422 97 0 
+483 div:int (none) 156 1 1 100 0 0 0 14 5378 -1 6 0 clock wCcagccccpccccccccecccccccclccccccccscccccccccdccccccccwccccccccccccccccccccccdcpccccccccccCvfcaxgab 3530 165 0 
+392 div:int (none) 145 2 2 101 98 390 0.251282 13 5059 -1 4 0 clock wCcagcccccccccccccccuxcccBcccccccccccpcccccccccjccccccccccccccccccccccccccccccccccccccccccccCvfcaxgab 5,3545 55,88 0,0 
+415 div:int (none) 55 1 1 99 0 0 0 14 5261 -1 5 0 clock wCcagcccccccccccccccccccccclccccccrccccccccccccccccccccccccccccccccccccccccccdcpkcccciccccCvfcaxgab 238 264 0 
+300 div:int (none) 222 1 1 101 0 0 0 12 4672 -1 6 0 clock wCcagcccBcccccccccccccccccclacccccccccccccccccciccccfccccccccccccccccccccccccccccpccccciccccCyfcaxgab 412 785 0 
+231 div:int (none) 160 1 1 100 97 383 0.253264 11 4438 -1 5 0 clock wCcagcccccccccccccccccccccccccczcccccccccccccccyckccccccccccfncccccccccccccccjccpcccAccccccCvfcaxgab 413 274 0 
+530 div:int (none) 308 1 1 100 0 0 0 14 5499 -1 6 0 clock wCcagcccccccccccccccvcccccccccczcccccccccccwccccckccccccccccccccccccccccccccccccpcccaccccccCvfcaxgab 534 0 0 
+323 div:int (none) 238 1 1 100 97 379 0.255937 13 4899 -1 7 0 clock wCcagccccccccccBccccnccccccccccccccccpcccccccccjcccrcccccccccccBcccccjccBcccccpccccccccAcccCvfcaxgab 3124 273 0 
+116 div:int (none) 78 1 1 105 95 394 0.241117 10 3795 -1 7 0 clock aaaawCcagcccccccccccccccccchcccccccccccccpcccccccccjyccccccCccccccccBccccccccBcccccpceccccwcccccCvfcaxgab 3245 161 0 
+254 div:int (none) 3 1 1 101 0 0 0 12 4583 -1 2 0 clock wCcagcccccccccccqccccccccccccccccccccpcccccccccjccccccccccccccccccccccccccccccccccccccccccccivfcaxgab 3358 990 0 
+507 div:int (none) 368 1 1 101 0 0 0 14 5409 -1 9 0 clock wCcagcccccccccccccccccccccccwccccccrcpccccccoccjccccccccccccccrBcyccccccBuccccCccccccbccccccCvfcaxgab 3482 96 0 
+461 div:int (none) 92 1 1 102 0 0 0 14 5356 -1 7 0 clock wCcagccccccccccccpccccccccccwccccccrcpcccccccccjcccccccccccccccrBcyccccccBucccccccccccbccccccCvfcaxgab 3483 196 0 
+438 div:int (none) 345 1 1 100 0 0 0 14 5316 -1 6 0 clock wCcagcccccccccccccccccccccclcccccccccccccccccccfcsccccccccccccccccccccccccccccBcpcccccccccqCvfcaxgab 3596 237 0 
+347 div:int (none) 3 2 2 102 99 394 0.251269 13 4966 -1 2 0 clock wCcagcccccccccccccccccccccccccccccccdcpcccccccccjccccccccccccccccccccccccccccccccccccccccccccCvfcaxgab 58,3599 165,164 0,0 
+531 div:int (none) 398 1 1 102 0 0 0 14 5500 -1 9 0 clock wCcagccccccccccccccccccccbcccccccccncpcccccccccjcccccccccnccccccBcccccsccBCccccccccccccdccocoCvfcaxgab 70 0 0 
+209 div:int (none) 124 1 1 100 49 332 0.14759 11 4273 -1 6 0 clock wCcagcccccccccccccccccccccclccccccccccccccccccccwscccccccAcccccsccccccccccccccBcpccccccccccCvpcaxgab 233 494 0 
+232 div:int (none) 26 4 4 100 87 375 0.232 11 4441 -1 4 0 clock wCcagccccbccccccccccccccccccccczccccccccccccccccckccccccccccfcccccccccccccccccccpcccAccccccCvfcaxgab 237,296,355,415 200,167,233,233 0,0,0,0 
+393 div:int (none) 292 2 2 104 91 387 0.235142 13 5068 -1 9 0 clock wCcagccccccccBccccccccccccclcucccccccccccccmccccccyccccfccccccccccccccccccccccccccccrccccciccccCvfcaxgab 289,350 43,43 0,0 
+186 div:int (none) 54 1 3 100 90 375 0.24 11 4220 -1 5 0 clock wCcagcaccccccccccccccccccccqccccccccccccccCccccccccvccccbccccccpccccccccccccccycccccccmccccCvfcaxgab 302 65 0 
+301 div:int (none) 219 1 1 101 98 389 0.251928 12 4673 -1 7 0 clock wCcagcccccccccirccccccccccccccccccccccccccccccCjccccccccccccccccccccjccccccccrcccqccccxcccccCvfcaxgab 3187 112 0 
+508 div:int (none) 12 1 1 101 0 0 0 14 5411 -1 3 0 clock wCcagcccccccccccccccccccccccccccfccccpcccAccccCjcccccccccgccccccccccccccccccccccccccccccccccCvfcaxgab 3243 99 0 
+416 div:int (none) 16 1 1 101 0 0 0 14 5262 -1 5 0 clock wCcagccccccccccccccccccccccccccccccccpcccccccccjcccccccfccccccccBcccAccccBcccccpccccccccccccCvfcaxgab 3302 223 0 
+370 div:int (none) 156 1 1 100 97 381 0.254593 13 5004 -1 6 0 clock wCcagccccpccccccccccccccccclccccccccscccccccccdccccccccwcccccccccccccicccckcccdcpccccccccccCvfcaxgab 3473 164 0 
+439 div:int (none) 259 1 1 100 0 0 0 14 5316 -1 3 0 clock wCcagccccccccccccccccccccccccccccccccpcccccccccjccccccccccccccccccccccccccccccccvccccccccccCvfcaxgab 3481 198 0 
+485 div:int (none) 287 1 1 101 0 0 0 14 5379 -1 6 0 clock wCcagccccccgcccccccccccccccccccccccccpccccwcccCjcccccccccccccfcccccccccccccccrccccccccccccccCvfcaxgab 3486 99 0 
+440 div:int (none) 84 1 1 100 0 0 0 14 5316 -1 5 0 clock wCcagcccccccccccccccccccccclcccccccccccccccccccccsccccccccccccccccccccccccccccBcpcccccAccAcCvfcaxgab 53 213 0 
+509 div:int (none) 386 1 1 101 0 0 0 14 5414 -1 6 0 clock wCcagcccccccccccccccccccccccccczccccccccccccccBcckccccccccccccpccccpcccccccqcccccpcccAccccccCvfcaxgab 180 110 0 
+26 div:int (none) 7 4 15 100 87 375 0.232 6 2340 -1 3 0 clock wCcagcccccccccccccccccccccccccczccccccccccccccccckccccccccccfcccccccccccccccccccpcccAccccccCvfcaxgab 236,297,298,474 299,299,266,266 0,0,0,0 
+417 div:int (none) 231 1 1 100 0 0 0 13 5264 -1 6 0 clock wCcagcccccccccccccccccccccccccczcccccccccccccccyokccccccccccfncccccccccccccccjccpcccAccccccCvfcaxgab 472 209 0 
+486 div:int (none) 357 1 1 100 0 0 0 14 5379 -1 7 0 clock wCcagcvcccccccccccccqccccccqccccccwcccckccCccccccczvccccbccccccpocccccccccccccymccccccmccccCvfcaxgab 478 132 0 
+371 div:int (none) 3 1 1 101 98 389 0.251928 13 5004 -1 2 0 clock wCcagccccccocccccccccccccccccccccccccpcccccncccjccccccccccccccccccccccccccccccccccccccccccccCvfcaxgab 3237 131 0 
+3 div:int (none) 1 5 27 101 98 391 0.250639 2 770 -1 1 0 clock wCcagccccccccccccccccccccccccccccccccpcccccccccjccccccccccccccccccccccccccccccccccccccccccccCvfcaxgab 3241,3298,3300,3418,3419 165,131,164,197,197 0,0,0,0,0 
+210 div:int (none) 104 1 1 100 0 0 0 11 4273 -1 6 0 clock CcagccccccgcccccccccccccccccccccccccpccccccccCjccccccccccccccckcccccccccccccrccccccccccccccCvfcaxgab 3367 1352 0 
+463 div:int (none) 370 1 1 100 0 0 0 14 5360 -1 7 0 clock wCcagccccpccccccccccccccccclccccccccscccccccccdccccccccwcccccccccccccdcccckcccdcpccjcccccccCvfcaxgab 3532 132 0 
+256 div:int (none) 68 1 1 100 0 0 0 12 4592 -1 5 0 clock wCcagcccccucccccccccccccccccccczccccccccccccccccckccccccccecccccrcccccccccccccccpcccAccBcccCvfcaxgay 3540 1002 0 
+279 div:int (none) 69 1 1 101 98 386 0.253886 12 4634 -1 6 0 clock wCcagccccccccccccccccccccccccccccccrcpcccccccccjccccccccccccccccBcyccccccBcccpccccccccccccccCvfcaxgab 3544 131 0 
+394 div:int (none) 296 1 1 112 108 429 0.251748 13 5078 -1 8 0 clock aaaaaaaaaaaawCcagccccccccccyccccccccccclccccccccccccccccccdcccccccccccctcccccchcccccccccccdcpccccccchccCvfcaxgab 3590 57 0 
+326 div:int (none) 82 1 1 99 0 0 0 13 4909 -1 4 0 clock wCcagcccccccccccccccccccccccccczccccccccccccccccckcccccccccccccccccccccccccccccpcccAcccccczvfcaxgab 0 646 0 
+303 div:int (none) 155 2 2 101 89 375 0.237333 12 4696 -1 9 0 clock wCcagccccccccccccBcccccccccccccccccccpcchcccccbjccccccccccscccccBcccccsccBCccccccccccccdccccCvfcaxgab 7,8 96,96 0,0 
+188 div:int (none) 84 1 4 99 96 381 0.251969 11 4223 -1 5 0 clock wCcagcccccccccccccccccccccclccccccccccccccccccccsccccccccccccccccccccccccccccBcpccccccccccCvfcaxgab 115 237 0 
+395 div:int (none) 39 1 1 101 0 0 0 13 5083 -1 5 0 clock wCcagcccccccccccccccccccccclccccccccccccccccccccccccfccccccccccccccccccccccccccccpcccccaccccCvfcaxgab 116 379 0 
+257 div:int (none) 191 1 2 102 98 389 0.251928 12 4593 -1 7 0 clock wCcagccccecccccccccccczccccccccccccjcpcccccccccjccccccccccccccccBccdecccccBccccccccccccccccccCvfcaxgab 123 229 0 
+418 div:int (none) 242 1 1 100 0 0 0 14 5270 -1 5 0 clock wCcagctccccccccccacccccccccccccccccccccccccccccccccccccccccccccccccccccczcccccyccccccccccccCvpcaxgab 360 230 0 
+487 div:int (none) 361 1 1 102 0 0 0 14 5382 -1 5 0 clock aawCcagccchccccoccccccccccccccccccccccpccccccccCjcccccccccccccccccccccccccccccccccccccccccgccCvfcaxgab 3003 132 0 
+464 div:int (none) 85 1 1 100 0 0 0 14 5361 -1 6 0 clock wCcagcccccccccccccccccccccclccccccfcccccccccccdccscccccccccccccccccccccccuccccxcpccccccccccCvfcaxgab 3236 159 0 
+349 div:int (none) 269 1 1 111 101 418 0.241627 13 4973 -1 10 0 clock aaaaaaaaaawCcagcccccccccccccccccchccccccwccccccpcccccccccjyccccccCccccccccBccccccccBcccccpceccccwcccccCvfcaxgab 3308 167 0 
+372 div:int (none) 294 1 1 100 91 375 0.242667 13 5008 -1 7 0 clock wCcagcccccccccccccccfcccccclccccccccccccccccrccccxcccccccccdccccccccccccccccyvccuccccccicccCvfcaxgab 3415 97 0 
+510 div:int (none) 372 1 1 100 0 0 0 14 5414 -1 8 0 clock wCcagcccccccccccccccfcccccclcccccccccccpccccrccccxcccccccccdccccccccccccccccyvccuccccccicccCvfcaxgab 3476 96 0 
+441 div:int (none) 3 1 1 101 0 0 0 14 5316 -1 2 0 clock wCcagccccccccccccccccccccccccgsccccccpcccccccccjccccccccccccccccccccccccccccccccccccccccccccCvfcaxgab 3479 198 0 
+488 div:int (none) 272 1 1 102 0 0 0 14 5383 -1 9 0 clock wCcagccccccccccccccccccccccciccccccrcpcccccccccjcccccccccccccccrBcycccqccBuccccCccccccbccccccCvfcaxgab 62 130 0 
+327 div:int (none) 169 1 1 100 0 0 0 13 4910 -1 5 0 clock wCcagcccccccccccccccccccccccccccccccccccecccccccccccccccrccccccccccccyccccccccyccccccccccccCsfcaxgab 63 633 0 
+304 div:int (none) 145 3 3 101 98 388 0.252577 12 4712 -1 4 0 clock wCcagcccccccccccccccuccccBcccccccccccpcccccccccjccccccccccccccccccccccccccccccjcccccccccccccCvfcaxgab 182,242,243 87,87,87 0,0,0 
+373 div:int (none) 266 1 1 109 104 416 0.25 13 5008 -1 7 0 clock aaaaaaaawCcagccccccccccyccccccccccclccccccccccccccxcccdcccccccccxcccccccccchcccccccccccdcvccccccchccCvfcaxgab 231 124 0 
+511 div:int (none) 58 1 1 103 0 0 0 14 5416 -1 6 0 clock wCcagcccccccccccccccccccccclccccccccccccccccccccyccccfccccccccccccccccccccccccccccpcccccicwcccCvfcaxgab 410 110 0 
+396 div:int (none) 155 1 1 101 0 0 0 13 5103 -1 9 0 clock wCcagccccccccccccccccccccccccccccccccpcchccccccjccccccccccccccccBcccccsccBCccccccccccccdccccgvfcaxgab 3489 397 0 
+143 div:int (none) 72 1 3 100 97 384 0.252604 10 3886 -1 5 0 clock wCcagcccccccccccccccccccccclcccccccccccccccceccccxcccccccccdccccccccccccccccycccpccccccccccCvfcaxgab 3536 169 0 
+350 div:int (none) 44 1 1 99 96 380 0.252632 13 4976 -1 4 0 clock wCcagcccccucccccccccccccccccccczcccccccccccccccckccccccccecccccccccccccccccccccpcccAccccccCvfcaxgab 3539 208 0 
+212 div:int (none) 154 1 3 100 97 383 0.253264 11 4278 -1 5 0 clock wCcagccccccccccccccAccccccclccccccctccccccccecqcccccccccccccccccccccccccccccycccpccccccccccCvfcaxgab 3593 135 0 
+305 div:int (none) 155 2 2 101 89 375 0.237333 12 4716 -1 9 0 clock wCcagccccccccccccccccccccccccccccccccpcchccccccjcccccccjcckcccccBcccccsccBCccccccccccccdccccCvfcaxgab 9,69 374,360 0,0 
+144 div:int (none) 64 1 2 101 98 388 0.252577 10 3893 -1 4 0 clock wCcagcccccccccccccccccccccccccczccccccccccccccBcckcccccccccccccccccpcccccccccccccpcccAccccccCvfcaxgab 60 111 0 
+397 div:int (none) 140 2 2 103 90 385 0.233766 13 5110 -1 7 0 clock wCcagcccccccccccccccccccccclccccccccccccccmcccccqyccccfccccccccccccccccccccccccccccpccccciccccCvfcaxgab 113,174 32,33 0,0 
+282 div:int (none) 62 2 2 101 98 390 0.251282 12 4638 -1 3 0 clock wCcagcccccccccccccccuccccccccccccccccpcccccccccjcccccccccccccccccccccccccccccccccccccccccccbCvfcaxgab 126,187 197,197 0,0 
+420 div:int (none) 82 1 1 98 0 0 0 14 5275 -1 4 0 clock wCcagccccccccccccccccoccccccccczccccccccccccccccckccccccccccccccccccccccccccccccccAccccccCvfcaxgab 179 242 0 
+443 div:int (none) 366 1 1 103 0 0 0 14 5319 -1 7 0 clock aawCcagchccccccccccccccccccccccccccccccpcccccccccjccccccccccccccccBcccccsccBcccccccccccccdccccCvfcaxgab 188 166 0 
+512 div:int (none) 262 1 1 100 0 0 0 14 5417 -1 6 0 clock wCcagcvccccccccccccccccccccqcccccccccccpccCccccccccvccccbwcccccpccccccccccccccycccccccmccccCvfcaxgab 300 98 0 
+489 div:int (none) 128 1 1 100 0 0 0 14 5384 -1 6 0 clock wCcagcvccccccccccccccccccccqccccccccccccccCccccccccvccccbcccmccpocccccccccccccymccccccmccccCvacaxgab 599 117 0 
+466 div:int (none) 217 1 1 99 0 0 0 14 5362 -1 8 0 clock wCcagccccccccccccccccccccolccccccccccccccccccdckdccccnwccccccccccccccccccccccdcpccccccwccvCvfcaxgab 3293 165 0 
+121 div:int (none) 16 1 1 102 0 0 0 10 3820 -1 5 0 clock wCoagccccccccccccccccocccccccccccccccpcccccccccjccccccctcccccccccBccccccccBcccccpccccccccccccCvfcaxgab 3361 1750 0 
+374 div:int (none) 283 2 2 100 97 381 0.254593 13 5010 -1 8 0 clock wCcagcccccccccccccccccccccolccccccccccccccccccdccccccccwcccccccccccccccccfpcccdcpccccccwccvCvfcaxgab 3410,3471 132,131 0,0 
+328 div:int (none) 86 1 2 101 88 377 0.233422 13 4919 -1 6 0 clock wCcagcccccccfccccccccccccccccccccccccpcccccccccjcccccccccccccccclccccccccBcccccpccccccccccccCvfcaxgab 3421 221 0 
+191 div:int (none) 133 3 3 102 98 390 0.251282 11 4231 -1 6 0 clock wCcagccccccccccccccccczccccccccccccjcpcccccccccjccccccccccccccccBccdecccccBccccccccccccccccccCvfcaxgab 1,2,3541 164,164,131 0,0,0 
+513 div:int (none) 296 1 1 112 0 0 0 14 5417 -1 8 0 clock aaaaaaaaaaaawCcagccccccccccyccccccccccclccccccccccccccccccdccccccccccccccccccchcccccccccccdcpccccccchccCvfcaxgab 51 123 0 
+352 div:int (none) 202 1 2 99 96 380 0.252632 13 4978 -1 5 0 clock wCcagcccccncccccccccccccccccccczcccczccccccccccccgcccccccceccccccccccccccccccccpcccAccccccCvfcaxgab 56 175 0 
+490 div:int (none) 266 1 1 108 0 0 0 14 5384 -1 7 0 clock aaaaaaaawCcagccccccccccyccccccccccclccccccccccccccxcccdccccccccccccccccccwhcccccucccccdcpccccccchccCvfcaxgab 112 144 0 
+145 div:int (none) 62 2 5 101 98 389 0.251928 10 3898 -1 3 0 clock wCcagcccccccccccccccuccccBcccccccccccpcccccccccjccccccccccccccccccccccccccccccccccccccccccccCvfcaxgab 124,184 120,21 0,0 
+398 div:int (none) 102 1 1 102 90 380 0.236842 13 5111 -1 8 0 clock wCcagccccccccccccccccccccccccccccccncpcccccccccjccccccccccccccccBcccccsccBCccccccccccccdccocoCvfcaxgab 129 32 0 
+76 div:int (none) 34 1 3 100 97 387 0.250646 9 3342 -1 3 0 clock wCcagctccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccczcccccyccccccccccccCvfcaxgab 240 173 0 
+306 div:int (none) 39 1 2 101 88 378 0.232804 12 4719 -1 5 0 clock wCcagcccccccccccccccccccciclccccccccccccccccccccccccfccccccccccccccccccccccccccccpccccciccccCvfcaxgab 353 362 0 
+237 div:int (none) 109 1 1 100 97 385 0.251948 12 4519 -1 4 0 clock wCcagccccccuccccccccccccccccccccccccccccnccccccccccccccccccccccccAccccccccccccycccccccccccACvfcaxgab 421 281 0 
+375 div:int (none) 207 1 1 100 96 381 0.251969 13 5017 -1 5 0 clock wCcagccccccccccccccccccccrcccceccccccpcccccccCjccccccccccccjccccecccccccccccccccceccczcccccCvfcaxgab 3001 173 0 
+421 div:int (none) 246 1 1 104 0 0 0 14 5276 -1 7 0 clock aaaawCcagccaccccccccccccccccccclcdccccccccccccccccdccshcccccccccccccscccccccccccccdcpccccccccccCvfcaxgab 3355 264 0 
+283 div:int (none) 99 2 2 100 93 378 0.246032 12 4638 -1 7 0 clock wCcagcccccccccccccccccccccolccccccccccccccccccdccccccccwcccccccccccccccccfccccdcpccccccwccvCvfcaxgab 3412,3472 132,131 0,0 
+467 div:int (none) 354 1 1 101 0 0 0 14 5363 -1 8 0 clock wCcagccccccccccccccccccccccjcccccccrcpcccccccccjccccccccccccccccBcycccbccfcccpccccccccccccccCvfcaxgab 3484 157 0 
+54 div:int (none) 37 1 4 100 90 372 0.241935 8 3032 -1 4 0 clock wCcagcvccccccccccccccccccccqccccccccccccccCccccccccvccccbccccccpccccccccccccccycccccccmccccCvfcaxgab 361 165 0 
+261 div:int (none) 187 1 1 101 49 287 0.170732 12 4599 -1 4 0 clock wCcagccccccpcccccccqpccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccqccccccccccCvfcgxgab 366 329 0 
+307 div:int (none) 224 1 1 101 0 0 0 12 4764 -1 5 0 clock wCcngccccccdcccccccccccccccccccczccccccccccccccccckccccccccccfccccccccccccpccccccpcccAlcccccCBfcaxgab 476 654 0 
+399 div:int (none) 108 2 2 100 97 381 0.254593 14 5115 -1 7 0 clock wCcagcckccccccccccccccccccccccccccczccccccccccccvccccccccccccccccccccccmccccccccpcscccsrcccCvfcaxgab 3299,3359 31,31 0,0 
+468 div:int (none) 349 1 1 113 0 0 0 14 5363 -1 11 0 clock aaaaaaaaaaaawCzagcccccccccccccccccchccccccwccccccpcccccccccjyccccccCccccccccBccccccccBcccccpcecclcwcccccCvfcaxgab 3309 171 0 
+514 div:int (none) 147 1 1 100 0 0 0 14 5419 -1 8 0 clock wCcagcccccccccccccccccccccolCcccccccccccccccccdccccccccwcccccccccccccccsccccccdcpccccccwccvCvfcaxgab 3413 99 0 
+376 div:int (none) 104 2 2 101 95 385 0.246753 13 5019 -1 6 0 clock wCcagccccccgcccccccccccccccccccccccccpccccccccCjcccccccccccfccckcccccccccccccrccccccccccccccCvfcaxgab 3429,3490 131,132 0,0 
+491 div:int (none) 367 1 1 101 0 0 0 14 5386 -1 10 0 clock wCcagcccmccccckccocccccccccccccccccccpcccccccccjccccccccccccccccBcdcccsccBvccecccccccccdccccCvfcaxgab 3485 128 0 
+515 div:int (none) 46 1 1 101 0 0 0 14 5422 -1 6 0 clock wCcagccccccccccccccccccccccccccccccccpcccccccccjccccccccccccacccBcccccsccBccccccccccccndccccCvfcaxgab 66 99 0 
+239 div:int (none) 55 2 3 99 86 369 0.233062 12 4542 -1 5 0 clock wCcagcccccccccccccccccccccclccccccrcccccccfccccccccccccccccccccccccccccccccccdcpccccciccccCvfcaxgab 117,118 164,165 0,0 
+377 div:int (none) 289 1 1 100 49 279 0.175627 13 5023 -1 7 0 clock wCcagcccccccccccccccccpcccwlccccccccccccccccccdacccccccwcccccccchcccccccccccccdcpcccccccccvCvfchxgab 170 131 0 
+55 div:int (none) 21 2 3 99 96 380 0.252632 8 3041 -1 4 0 clock wCcagcccccccccccccccccccccclccccccrccccccccccccccccccccccccccccccccccccccccccdcpccccciccccCvfcaxgab 177,178 263,230 0,0 
+423 div:int (none) 377 1 1 100 0 0 0 14 5280 -1 8 0 clock cccccwcccccccchcccccccccccccdcpcccccccccvCvfchxgabwCcagcccccccccccccccccpcccwlcccccccccccccbccccdacc 230 113 0 
+216 div:int (none) 140 2 4 104 91 388 0.234536 11 4292 -1 7 0 clock wCcagcccccccccccccccccccccclcucccccccccccccmccccccyccccfccccccccccccccccccccccccccccpccccciccccCvfcaxgab 232,291 32,33 0,0 
+446 div:int (none) 76 1 1 100 0 0 0 14 5324 -1 4 0 clock wdcagctccccccccccccccccncccccccccccccccccccccccccccccccccccccccccccccccczcccccyccccccccccccCvfcaxgab 241 206 0 
+262 div:int (none) 54 1 2 100 90 372 0.241935 12 4605 -1 5 0 clock wCcagcvccccccccccccccccccccqccccccccccccccCccccccccvccccbwcccccpccccccccccccccycccccccmccccCvfcaxgab 419 99 0 
+308 div:int (none) 226 1 1 100 97 384 0.252604 12 4769 -1 5 0 clock wCcagcccccccccccccccvcccccccccczccccccccccccccccckccccccccccccccccccccccccccccccpcccaccccccCvfcaxgab 475 28 0 
+400 div:int (none) 308 1 1 100 97 384 0.252604 13 5138 -1 6 0 clock wCcagcccccccccccccccvcccccccccczccccccccccccccccckcccwccccccccccccccccccccccccccpcccaccccccCvfcaxgab 535 28 0 
+285 div:int (none) 152 2 2 101 98 388 0.252577 12 4645 -1 4 0 clock wCcagccccccccccccccccccccccccccccccccpccccccccCjccccccccccccccccckccccccccccccccccecccmcccccCvfcaxgab 3119,3120 164,164 0,0 
+147 div:int (none) 99 2 3 100 96 381 0.251969 10 3904 -1 7 0 clock wCcagcccccccccccccccccccccolccccccccccccccccccdccccccccwcccccccccccccccsccccccdcpccccccwccvCvfcaxgab 3292,3353 99,131 0,0 
+492 div:int (none) 191 1 1 102 0 0 0 14 5389 -1 7 0 clock wCcagccccccccccccccccczcvccccccccccjcpcccccccccjccccccccccccccccBccdecccccBccccccccccccccccccCvfcaxgab 3542 131 0 
+469 div:int (none) 143 1 1 100 0 0 0 14 5364 -1 6 0 clock wCcagcccccccccccccccccccccclcccccccccvcccccceccccxcccccccccdccccccccccccccccycccpccccccccccCvfcaxgab 3595 169 0 
+102 div:int (none) 71 2 4 101 89 378 0.23545 9 3529 -1 7 0 clock wCcagccccccccccccccccccccccccccccccccpcccccccccjccccccccccccccccBcccccsccBCccccccccccccdccccCvfcaxgab 68,3547 363,330 0,0 
+378 div:int (none) 58 1 1 102 89 380 0.234211 13 5024 -1 6 0 clock wCcagcccccccccccBcccccccccclccccccccccccccccccccyccccfcccccccccccccccccccmccccccccpccccticcccCvfcaxgab 294 76 0 
+493 div:int (none) 137 1 1 100 0 0 0 14 5393 -1 4 0 clock rCcagcccccccccccccccuccccccccccccccccpccccccccjccccccccccccccccccccccccccccccdcccccccccccccCvfcaxgab 367 132 0 
+470 div:int (none) 375 1 1 100 0 0 0 14 5365 -1 6 0 clock wCcagccccccccccccccccccccrcccceccccccpcccccccCjccccccccccccjccccecccccccccccccccceccczcccccCvfcaxBab 3002 182 0 
+516 div:int (none) 379 1 1 101 0 0 0 14 5429 -1 7 0 clock wCcagcccccccccccccccccbcccclccccccccccccccccccdccsccccccxcccccccccccccccccccccxcpccccccmccccCvfcaxgab 3114 105 0 
+309 div:int (none) 108 1 1 100 97 381 0.254593 13 4780 -1 7 0 clock wCccgcckccccccccccccccccccccccccccczccccccccccccvccccccccccccccccccccccmccccccccpcscccsccccCvfcaxgab 3178 361 0 
+217 div:int (none) 99 1 2 100 97 381 0.254593 11 4293 -1 7 0 clock wCcagcccccccccccccccccccccolccccccccccccccccccdckdccccnwccccccccccccccccccccccdcpccccccwccvCvfcaxgab 3352 164 0 
+425 div:int (none) 188 1 1 99 0 0 0 14 5299 -1 6 0 clock wCcagcccccccccccccccccccccBlccccccccccccccccccccsccccccccccccccccicccclccccccBcpccccclccccCvfcaxgab 54 202 0 
+333 div:int (none) 257 1 2 102 98 388 0.252577 13 4934 -1 8 0 clock wCcagccccecccccccccccczccccccccccdcjcpcccccccccjccccccccccccccccBccdeccccrBccccccccccccccccccCvfcaxgab 181 195 0 
+218 div:int (none) 142 3 3 101 95 385 0.246753 11 4293 -1 4 0 clock wCcagcccccccccccccccpcccccccccccccccckccccccuccccccccccccccccccccccctccccccccccfccceccccccccCvfcaxgab 303,364,424 131,65,66 0,0,0 
+517 div:int (none) 298 1 1 100 0 0 0 14 5433 -1 6 0 clock wCcagcccccccckccccccpcccccccccccccccckccccccuccccccccccccccccccccccctccccccccccfcceccccccccCvfcaxgab 486 66 0 
+494 div:int (none) 359 1 1 108 0 0 0 14 5395 -1 8 0 clock wCaaaaaaaacagccCccdcccccccccccccccvqcccccclcccccccCccccccccvcccfbccccccpccccccccccchccycccccccmccccCvfcaxgab 595 87 0 
+379 div:int (none) 85 1 1 101 98 388 0.252577 13 5025 -1 6 0 clock wCcagcccccccccccccccccccccclccccccccccccccccccdccsccccccxcccccccccccccccccccccxcpccccccmccccCvfcaxgab 3175 105 0 
+402 div:int (none) 309 1 1 102 0 0 0 14 5147 -1 8 0 clock aawCccgcckccccccccccccccccccccccccccczccccccacccccvccccccccccccccccccccccmccccccccpcscccsccccCvfcaxgab 3177 388 0 
+126 div:int (none) 17 1 1 100 0 0 0 10 3841 -1 5 0 clock wCzagcccccccccccccccccccccclccccccccccccccccccdccsccccccccccccccccccccccccccccdcpccccccccccCvfcaxgab 3354 1751 0 
+471 div:int (none) 287 1 1 101 0 0 0 14 5365 -1 6 0 clock wCcaeccccccgcccccccccccccccccccccccccpccccccccCjcccccccccccccfcccccccccccccccrccccccccccccccCvfcaxgab 3366 132 0 
+287 div:int (none) 45 2 2 101 88 378 0.232804 12 4648 -1 5 0 clock wCcagccccccgcccccccccccccccccccccccccpccccccccCjcccccccccccccfcccccccccccccccrccccccccccccccCvfcaxgab 3425,3426 164,131 0,0 
+448 div:int (none) 3 1 1 101 0 0 0 14 5335 -1 2 0 clock wCcagccccccccccciccccccccccccccccccccpcccccccccjccccccccccccccccccccccccccccccccccccccccccccCvfcaxgab 3478 198 0 
+403 div:int (none) 26 1 1 100 0 0 0 13 5166 -1 4 0 clock wCcagcccccccccccccccccccccccccczccccccccccccccccckzcccccccccfcccccccccccccccccccpcccAccccccCvfcaxgab 235 366 0 
+426 div:int (none) 177 1 1 100 0 0 0 14 5300 -1 6 0 clock wCcagcccxcccccccccccccccccccccczccccccccccccccccckcccccccccccccccccpccoccccccccccpcccccccccCvfcaxgab 239 226 0 
+449 div:int (none) 282 1 1 101 0 0 0 14 5335 -1 4 0 clock wCcagcccccccccccccccuccccccccccccccccpcccccccccjcccccccccccccccccccccccccccccccccccccccccccbCufcaxgab 248 165 0 
+242 div:int (none) 76 1 2 100 97 387 0.250646 12 4549 -1 4 0 clock wCcagctccccccccccacccccccccccccccccccccccccccccccccccccccccccccccccccccczcccccyccccccccccccCvfcaxgab 301 272 0 
+58 div:int (none) 39 2 5 102 89 382 0.232984 8 3065 -1 5 0 clock wCcagcccccccccccccccccccccclccccccccccccccccccccyccccfccccccccccccccccccccccccccccpccccciccccCvfcaxgab 351,352 110,110 0,0 
+357 div:int (none) 128 1 1 100 90 371 0.242588 13 4986 -1 6 0 clock wCcagcvcccccccccccccqccccccqccccccccccckccCccccccccvccccbccccccpocccccccccccccymccccccmccccCvfcaxgab 479 164 0 
+495 div:int (none) 207 1 1 100 0 0 0 14 5397 -1 5 0 clock wCjagccccccccccccccccccccrcccceccccccpcccccccCjccccccccccccjccccccccccccccccccccccccczcccccCvfcaxgab 3059 143 0 
+12 div:int (none) 3 1 10 101 98 391 0.250639 4 1557 -1 2 0 clock wCcagccccccccccccccccccccccccccccccccpccccccccCjccccccccccccccccccccccccccccccccccccccccccccCvfcaxgab 3182 131 0 
+472 div:int (none) 184 1 1 107 0 0 0 14 5367 -1 8 0 clock aaaacawCcagcccccccccccccccccchcccccccccccccpcccccccccjcccccccCccccccccBccccccccBcccccpceccccccccccCvfcaxgab 3244 163 0 
+173 div:int (none) 123 1 2 100 96 383 0.250653 11 4177 -1 6 0 clock wCcagccccccccccccccccccbccclccccccccccccccdcccdccscccccccccccccccccccccwccccccdcpccccccccccCvfcaxgab 3297 197 0 
+35 div:int (none) 20 1 4 100 97 383 0.253264 7 2639 -1 4 0 clock wCcagcccccccccccccccccccccccccccccczccccccccccccvcccccccccccccccccccccccccccccccpcscccsccccCvfcaxgab 3420 230 0 
+518 div:int (none) 45 1 1 101 0 0 0 14 5436 -1 5 0 clock wCcagccccccgcccccccccccccccccccccccccpccccccccCjccccccccccccccccckcccccccccccrccccccccccccccCvfcaxgab 3423 99 0 
+104 div:int (none) 45 2 4 101 98 388 0.252577 9 3533 -1 5 0 clock wCcagccccccgcccccccccccccccccccccccccpccccccccCjccccccccccccccckcccccccccccccrccccccccccccccCvfcaxgab 3487,3548 98,132 0,0 
+289 div:int (none) 49 2 2 100 97 381 0.254593 12 4654 -1 6 0 clock wCcagcccccccccccccccccpcccclccccccccccccccccccdacccccccwccccccccccccccccccccccdcpcccccccccvCvfcaxgab 110,171 99,131 0,0 
+266 div:int (none) 139 1 1 104 100 398 0.251256 12 4609 -1 6 0 clock aaaawCcagccccccccccyccccccccccclccccccccccccccxcccdccccccccccccccccccchcccccccccccdcpccccccchccCvfcaxgab 172 140 0 
+13 div:int (none) 4 1 7 100 97 385 0.251948 4 1613 -1 3 0 clock wCcagcccccccccccccccccccccclccccccccccccccccccdcccccccccccccccccccccccccccccccdcpccccccccccCvfcaxgab 175 197 0 
+312 div:int (none) 159 1 1 102 89 379 0.234828 12 4831 -1 5 0 clock aawCcagccccccccccccccccccccccchcczccccccccccccccccckccccccccccfccccccccccccccccccvpcccAacccccCvfcaxgab 295 267 0 
+243 div:int (none) 195 1 1 102 0 0 0 12 4554 -1 7 0 clock cccccccccccccccccpcccccccccccccpcccAccccccCvfhaxgabwCcagcccxcccccccccccccccccccccczcccccccccccccpcccck 418 479 0 
+128 div:int (none) 54 2 4 100 90 372 0.241935 10 3844 -1 5 0 clock wCcagcvccccccccccccccccccccqccccccccccccccCccccccccvccccbccccccpocccccccccccccymccccccmccccCvfcaxgab 538,597 99,132 0,0 
+496 div:int (none) 383 1 1 100 0 0 0 14 5397 -1 7 0 clock wCcagcccxpccccccccccccccccclccccccccscccdcccccdccccccccwccccccccccccccccccccccdcpccccccccccCvfcaxgab 3409 137 0 
+473 div:int (none) 279 1 1 101 0 0 0 14 5368 -1 7 0 clock wCcagccccccccccccccccccccccccccccccrcpcccccccccjccccccccccccccccBcyccccccBcccpccccccccccccccCvrcaxgab 3543 151 0 
+451 div:int (none) 253 1 1 101 0 0 0 14 5336 -1 7 0 clock wCcagcczcccccccccccccccccccccccccccccpcccccckccjccccccccccccccccBcceaccccBccjcccccccccccccccCvfcaxgab 61 196 0 
+520 div:int (none) 37 1 1 100 0 0 0 14 5439 -1 4 0 clock wCcagccccccccccccccccccccccqccccccccccccccCccccccccwccccbccccccpccccccccccccccycccccccmccccCvfcaxgab 358 66 0 
+175 div:int (none) 118 1 2 100 89 372 0.239247 11 4187 -1 5 0 clock wCcagccCccdccccccccccccccccqccccccccccccccCccccccccvccccbccccccpccccccccccccccycccccccmccccCvfcaxgab 417 129 0 
+405 div:int (none) 26 1 1 100 0 0 0 13 5192 -1 4 0 clock wCcagccccccchcccccccccccccccccczccccccccccccccccckccccccccccfcccccccccccccccccccpcccAccccccCvfcaxgab 533 298 0 
+359 div:int (none) 275 1 1 100 82 361 0.227147 13 4990 -1 7 0 clock wCcagccCccdcccccccccccccccvqccccccccccccccCccccccccvcccfbccccccpccccccccccchccycccccccmccccCvfcaxgab 536 121 0 
+152 div:int (none) 12 1 2 101 98 390 0.251282 10 3917 -1 3 0 clock wCcagccccccccccccccccccccccccccccccccpccccccccCjccccccccccccccccccccccccccccccccccecccccccccCvfcaxgab 3181 197 0 
+221 div:int (none) 45 6 6 101 98 388 0.252577 11 4307 -1 5 0 clock wCcagcccccbgcccccccccccccccccccccccccpccccccccCjccccccccccccdccccccccccccccccrccccccccccccccCvfcaxgab 3247,3248,3249,3307,3368,3428 99,65,99,65,65,66 0,0,0,0,0,0 
+474 div:int (none) 217 1 1 100 0 0 0 14 5368 -1 8 0 clock wCcagcccccccccccccccccccccolccccccccccccccccycddkdccccnwccccccccccccccccccccccdcpccccccwccvCvfcaxgab 3351 172 0 
+84 div:int (none) 59 1 2 100 97 385 0.251948 9 3450 -1 4 0 clock wCcagcccccccccccccccccccccclcccccccccccccccccccccsccccccccccccccccccccccccccccBcpccccccccccCvfcaxgab 114 205 0 
+521 div:int (none) 378 1 1 101 0 0 0 14 5443 -1 7 0 clock wCcagcccccccccccBccccccccccccccccccccccccccccccyccccfcccccccccbcccccccccmccccccccpccccticcccCvfcaxgab 293 43 0 
+498 div:int (none) 90 1 1 101 0 0 0 14 5398 -1 4 0 clock wCcagcccccqcccccccccpccccccccccccccucccccccccccccccccccccccccccccccctccccccccccfccccccccccccCvfcaxgab 483 99 0 
+245 div:int (none) 173 4 4 100 96 383 0.250653 12 4557 -1 7 0 clock wCcagccccccccccccccccccbccclccccccccccccccdcccdccsccccccczcccccccccccccwccccccdcpccccccccccCvfcaxgab 3174,3234,3294,3295 248,248,281,281 0,0,0,0 
+475 div:int (none) 269 1 1 111 0 0 0 14 5370 -1 10 0 clock aaaaaaaaaawCcagcccccccccccccccccchcccccccccccccpcccccccccjyccccccCccccccccBccccccccBcccccpcezcccwcccccCvfcaxgab 3185 141 0 
+406 div:int (none) 167 1 1 100 0 0 0 14 5198 -1 6 0 clock wCcagcccccccccccccccjcccccccccccccczccccccccncycvccccccccccccccccczcccccccccccccrcscccsccccCvfcaxgab 3360 324 0 
+383 div:int (none) 156 1 1 100 97 383 0.253264 13 5031 -1 6 0 clock wCcagcccxpccccccccccccccccclccccccccscccccccccdccccccccwccccccccccccccccccccccdcpccccccccccCvfcaxgab 3470 104 0 
+429 div:int (none) 180 1 1 100 0 0 0 14 5306 -1 7 0 clock wCcagcccccccccccicccccccccclccccccccccccccccccdccsucccccccccccjcccccccccccccccxcpccccccccccCvfcaxgab 3537 235 0 
+452 div:int (none) 350 1 1 99 0 0 0 14 5337 -1 5 0 clock wCcagcccccucccccccccccccccccccczcccccccciccccccckccccccccecccccccccccccccccccccpcccAccccccCvfcaxgab 3538 174 0 
+200 div:int (none) 44 1 1 100 96 382 0.251309 11 4253 -1 4 0 clock wCcagcccccuccccczcccccccccccccczcccccccccccccBccckccccccccecccccccccccccccccccccpcccAccccccCvfcaxgab 59 174 0 
+39 div:int (none) 21 1 6 101 88 379 0.23219 7 2677 -1 4 0 clock wCcagcccccccccccccccccccccclccccccccccccccccccccccccfccccccccccccccccccccccccccccpccccciccccCvfcaxgab 176 362 0 
+407 div:int (none) 159 1 1 101 0 0 0 13 5210 -1 5 0 clock aawCcagccccccccccccccccccccccchczccccccccccccccccckccccccccccfccccccccccccccccccvpcccAsccccoCvfcaxgab 357 299 0 
+522 div:int (none) 186 1 1 99 0 0 0 14 5450 -1 6 0 clock wCcagcacccccccccccccccccccqccccccccccccccCccccccccvccccbccccccpccccccccccccccycccccccmccccCvfcaxgab 363 65 0 
+499 div:int (none) 275 1 1 100 0 0 0 14 5400 -1 7 0 clock wCcagccCccdccccccccccccccccqccccccccccccccCccccccccvcccfbccccccpccccccccccccccccccccccmccccCvfcaxgab 537 99 0 
+361 div:int (none) 295 1 1 100 97 386 0.251295 13 4993 -1 4 0 clock wCcagccchcccccccccccccccccccccccccccpccccccccCjccccccccccccccccccccccccccccccccccccccccccccCvfcaxgab 3062 131 0 
+85 div:int (none) 17 2 7 100 97 385 0.251948 9 3461 -1 5 0 clock wCcagcccccccccccccccccccccclccccccccccccccccccdccsccccccccccccccccccccccccccccxcpccccccccccCvfcaxgab 3235,3296 171,138 0,0 
+269 div:int (none) 179 1 3 109 99 410 0.241463 12 4613 -1 9 0 clock aaaaaaaawCcagcccccccccccccccccchcccccccccccccpcccccccccjyccccccCccccccccBccccccccBcccccpceccccwcccccCvfcaxgab 3246 165 0 
+16 div:int (none) 10 2 12 101 98 388 0.252577 5 1936 -1 4 0 clock wCcagccccccccccccccccccccccccccccccccpcccccccccjccccccccccccccccBccccccccBcccccpccccccccccccCvfcaxgab 3301,3362 232,331 0,0 
+476 div:int (none) 85 1 1 100 0 0 0 14 5371 -1 6 0 clock wCcagcccccccccccccccccccccclccccccccccccccccccdccsccccckccccccccccccccccccccccxcpccccccceccCvfcaxgab 3356 137 0 
+430 div:int (none) 180 1 1 100 0 0 0 14 5307 -1 7 0 clock wCcagcccccccccccicccccccccclccccccccccccccccccdccsccccccccccccccccccccccccccccxcpocccccccccCvfcaxgab 3414 236 0 
+431 div:int (none) 113 1 1 101 0 0 0 14 5307 -1 4 0 clock wCcagccccccccccccccccccicccccccccccccccccecccccccccccccccdcccccccccccccccccccccyccccccccccccCvfcaxgab 122 203 0 
+270 div:int (none) 209 1 1 100 0 0 0 12 4613 -1 7 0 clock cccccccAcccccsccccccccccccccBcpccccccccccCvpcaxgabwCcagcccccccccccccccccccccclccccccccccccccccccccws 292 496 0 
+500 div:int (none) 58 1 1 102 0 0 0 14 5401 -1 6 0 clock wCcagcccccccccccccccccccccclccccccccccccccccccccyccccfczccccccccccccccccccccccccccpccccciccccCvfcaxgab 411 110 0 
+454 div:int (none) 285 1 1 100 0 0 0 14 5343 -1 5 0 clock wCcagccccccccccccccccccccccccccccccccpccccccccCjccccccccccccccccckcccccccccccccccceccccccccCvfcaxgab 3000 165 0 
+408 div:int (none) 316 1 1 100 0 0 0 14 5230 -1 7 0 clock wCcagccccccccccccccccccccccccccccsczcccccAcccccsvccccccjcccccccccccccccmccccccccpcscccsccccCvfcaxgab 3239 301 0 
+477 div:int (none) 116 1 1 107 0 0 0 14 5372 -1 8 0 clock aaaaaawCcagcccccccccccccccccchcccccccicccccpcpcccccccjyccccccCccccccccBccccccccBcccccpceccccwcccccCvfcaxgab 3304 161 0 
+293 div:int (none) 217 1 1 100 0 0 0 12 4660 -1 8 0 clock wCcarcccccccccccccccccccccolccccccccccccccccccdckdccccnwccccccccccccccccccccccdcpccccccwccvCvfcaxgab 3411 941 0 
+155 div:int (none) 102 1 3 101 89 377 0.236074 10 3939 -1 8 0 clock wCcagccccccccccccccccccccccccccccccccpcchccccccjccccccccccccccccBcccccsccBCccccccccccccdccccCvfcaxgab 3488 32 0 
+156 div:int (none) 31 6 7 100 97 383 0.253264 10 3940 -1 5 0 clock wCcagccccpccccccccccccccccclccccccccscccccccccdccccccccwccccccccccccccccccccccdcpccccccccccCvfcaxgab 52,3531,3533,3591,3592,3594 132,164,131,164,164,165 0,0,0,0,0,0 
+386 div:int (none) 144 1 1 101 98 388 0.252577 13 5049 -1 5 0 clock wCcagcccccccccccccccccccccccccczccccccccccccccBcckcccccccccccccccccpcccccccqcccccpcccAccccccCvfcaxgab 120 111 0 
+317 div:int (none) 237 2 2 100 97 384 0.252604 13 4875 -1 5 0 clock wCcagccccccuccccccccccccccccccccccccccccnccccccccccccccccccccccCcAmcccccccccccycccccccccccACvfcaxgab 480,481 313,313 0,0 
+478 div:int (none) 90 1 1 101 0 0 0 14 5373 -1 4 0 clock wCcagcccccccccccccccpccccccccccccccucccccccccBcccccccpcccccccccccccctccccccccccfccccccccccccCvfcaxgab 545 139 0 
+501 div:int (none) 90 1 1 101 0 0 0 14 5401 -1 4 0 clock wCcagcccccccccccccccpccccccccccccccucncccccccccccccccccccccccccccccctccccccccccfccccccccccccCvfcaxgab 604 99 0 
+340 div:int (none) 251 2 2 106 95 396 0.239899 13 4949 -1 9 0 clock aaaaaawCcagcccccpccccccccccchcccccccccccccdcccccccccjyccccccCccccccccBccccccccBcccccoceccccwcccccCvfcaxgab 3064,3125 227,227 0,0 
+179 div:int (none) 116 2 2 107 97 402 0.241294 11 4197 -1 8 0 clock aaaaaawCcagcccccccccccccccccchcccccccccccccpcccccccccjyccccccCccccccccBccccccccBcccccpceccccwcccccCvfcaxgab 3184,3306 262,163 0,0 
+455 div:int (none) 45 1 1 101 0 0 0 14 5349 -1 5 0 clock wCcagccccccgcccccccccccccccccccccccccpcgccccccCjcccccccccccccccccccccccccccccrccccccccccccccCvfcaxgab 3305 165 0 
+524 div:int (none) 155 1 1 101 0 0 0 14 5468 -1 9 0 clock wicagccccccccccccccccccccccccccccccccpcchccccccjccccccccccccccccBccuccsccBCccccccccccccdccccCvfcaxgab 3427 59 0 
+202 div:int (none) 44 3 5 100 97 384 0.252604 11 4260 -1 4 0 clock wCcagcccccncccccccccccccccccccczcccczccccccccccccgccccccccecccccccccccccccccccccpcccAccccccCvfcaxgab 3474,3534,3535 176,143,143 0,0,0 
+363 div:int (none) 200 2 2 100 96 381 0.251969 13 4993 -1 5 0 clock wCcagcccccuccccczcccccccccccccczcccccccccrcccBccckccccccccecccccccccccccccccccccpcccAccccccCvfcaxgab 3597,3598 140,206 0,0 
+272 div:int (none) 194 1 2 102 90 381 0.23622 12 4621 -1 8 0 clock wCcagcccccccccccccccccccccccwccccccrcpcccccccccjcccccccccccccccrBcycccqccBuccccCccccccbccccccCvfcaxgab 3 131 0 
+134 div:int (none) 30 2 4 101 98 390 0.251282 10 3858 -1 4 0 clock wCcagccccccccccccccccccccccccccccccccpccccccccCjcccccxcccccccccccccccccccccccrccccccccccccccCvfcaxgab 4,64 147,180 0,0 
+525 div:int (none) 394 1 1 204 0 0 0 14 5475 -1 9 0 clock aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaawCcagccccccccccyccccccccccclccccccccccccccccccdcccccccccccctcccccchcccccccccccdcpccccccchccCvfcaxgab 49 66 0 
+387 div:int (none) 140 1 1 103 90 385 0.233766 13 5054 -1 7 0 clock wCcagcccccccccccccccccccccAlccccccccccccccmccccccyccbcfccccccccccccccccccccccccccccpccccciccccCvfcaxgab 173 44 0 
+502 div:int (none) 373 1 1 117 0 0 0 14 5403 -1 8 0 clock aaaaaaaaaaaaaaaawCcagccccccccccyccccccccccclccccccccccccccxcccdcccccccccxcccccccccchcccccccccccdcvccccccchccCvfcaxgac 290 132 0 
+433 div:int (none) 346 1 1 101 0 0 0 14 5310 -1 4 0 clock wCcagccccccccccccccqyccccxcccccccccccccccccccccccccccccccccccccccccccccccccccqcccqccccccccccCvfcaxgab 304 219 0 
+226 div:int (none) 26 1 1 100 97 387 0.250646 11 4384 -1 4 0 clock wCcagcccccccccccccccccccccccccczccccccccccccccccckccccccccccccccccccccccccccccccpcccaccccccCvfcaxgab 416 386 0 
+318 div:int (none) 231 1 1 100 0 0 0 12 4877 -1 6 0 clock wCcngcccccccccccccccccccccccccczcccccccccccccccyckccccccccccfnccccccccccccsccjccpcccAccccccCvfcaxgzb 473 654 0 
+295 div:int (none) 12 2 2 100 97 387 0.250646 12 4661 -1 3 0 clock wCcagcccccccccccccccccccccccccccccccpccccccccCjccccccccccccccccccccccccccccccccccccccccccccCvfcaxgab 3063,3123 165,197 0,0 
+410 div:int (none) 77 1 1 100 0 0 0 14 5239 -1 6 0 clock wCcagcccccccccccccccccccccccccccccczccccccccccscvccccccccccccccccccccccmccccccccpcscccsccccCvfcaxgab 3240 296 0 
+456 div:int (none) 184 1 1 107 0 0 0 14 5349 -1 8 0 clock aaaaaawCcagcccccccccccccccccchcccccccccccccpcccccccccjcccccccCccccccccBccccccccBcccccpceccccccccccCvfcaxgab 3242 163 0 
+479 div:int (none) 104 1 1 101 0 0 0 14 5373 -1 6 0 clock wCcagccccccgccccccccccccccccccccBccccpccccccccCjccccccccccccccckcccccccccccccrccccccccccccccCvfcaxgab 3369 160 0 
+341 div:int (none) 123 2 2 100 96 381 0.251969 13 4952 -1 6 0 clock wCcagccccccccccccccccccbccclccccccccccccccccccdccsccccccvcccccccccccccccccccccdcpccccccccccCvfcaxgab 3416,3477 164,198 0,0 
+180 div:int (none) 85 1 2 100 97 384 0.252604 11 4197 -1 6 0 clock wCcagcccccccccccicccccccccclccccccccccccccccccdccsccccccccccccccccccccccccccccxcpccccccccccCvfcaxgab 3475 203 0 
+457 div:int (none) 156 1 1 99 0 0 0 14 5351 -1 6 0 clock CcagccccpccccccccccccccccclccccccccscccccccccdccccccccwccccccccccccccccccccccdcpccccccccccCvfcaxgab 50 198 0 
+296 div:int (none) 199 1 2 108 104 414 0.251208 12 4663 -1 7 0 clock aaaaaaaawCcagccccccccccyccccccccccclccccccccccccccccccdccccccccccccccccccchcccccccccccdcpccccccchccCvfcaxgab 111 86 0 
+503 div:int (none) 144 1 1 101 0 0 0 14 5403 -1 5 0 clock wCcagcccccccccccccccccccccccccczccccccgcccccccBcckcccccccccccccccccpkccccccccccccpcccAccccccCvfcaxgab 119 110 0 
+434 div:int (none) 282 1 1 102 0 0 0 14 5313 -1 4 0 clock wCcagccchcccccccccccuccccccccccccccccpcccccccccjccccccccccccccccccccccccccccycccccccccccccccbCvfcaxgab 186 234 0 
+526 div:int (none) 388 1 1 101 0 0 0 14 5477 -1 6 0 clock wCcagccCcccccccfcccccccccccqccccccccccccccCccccccccvccccbccccccpccccccccccccccycccccccmcrcccCvfcaxgab 299 33 0 
+319 div:int (none) 261 1 1 101 0 0 0 13 4883 -1 5 0 clock cccccccccccccccccccccccccccccccqccccccccccCvfcgxgabwCcagccccccpcccccccqpccccccccccccccccccccccccccccc 307 340 0 
+388 div:int (none) 118 1 1 101 82 368 0.222826 13 5055 -1 5 0 clock wCcagccCcccccccccccccccccccqccccccccccccccCccccccccvccccbccccccpccccccccccccccycccccccmcrcccCvfcaxgab 359 32 0 
+480 div:int (none) 128 1 1 101 0 0 0 14 5376 -1 6 0 clock wCcagcvccccccccccccccCccccccqccccccccccccccCccccccccvccccbccccccpocccccccccccccymccccccmccccCvfcaxgab 656 127 0 
+411 div:int (none) 16 1 1 101 0 0 0 14 5246 -1 5 0 clock wCcagccccclccccccccccccccccccccccccccpcccccccccjcccmccccccccccccBccccccccBcccccpccccccccccccCvfcaxgab 3303 296 0 
+274 div:int (none) 200 1 2 100 96 381 0.251969 12 4625 -1 5 0 clock wCcagcccccuccccczccccccccccccccziccccccccccccBccckccccccccecccccccccccccccccccccpcccAccccccCvfcaxgab 57 206 0 
+113 div:int (none) 36 1 2 100 97 386 0.251295 10 3786 -1 3 0 clock wCcagcccccccccccccccccccccccccccccccccccecccccccccccccccdcccccccccccccccccccccyccccccccccccCvfcaxgab 121 238 0 
+481 div:int (none) 46 1 1 101 0 0 0 14 5377 -1 6 0 clock wCcagccccccccccccccccccbocccccccccccupcccccccccjccccccccccccccccBcccccsccBcccccccccccccdccccCvfcaxgab 125 131 0 
+366 div:int (none) 46 1 1 101 98 386 0.253886 13 4997 -1 6 0 clock wCcagchccccccccccccccccccccccccccccccpcccccccccjccccccccccccccccBcccccsccBcccccccccccccdccccCvfcaxgab 128 197 0 
+435 div:int (none) 13 1 1 100 0 0 0 14 5313 -1 4 0 clock wCcagcccccccccccccccccccccclccccccccccccccccccdccccccccccccccccccqccccccccccccdcpccccccccccCvfcaxgab 234 198 0 
+504 div:int (none) 218 1 1 101 0 0 0 14 5403 -1 5 0 clock wCcagcccccccccccccccpcdcccccccccccccckccccccuccccccccccccccccccccccctccccccccccfccceccccccccCvfcaxgab 244 132 0 
+159 div:int (none) 26 1 1 100 87 371 0.234501 10 4011 -1 4 0 clock wCcagccccccccccccccccccccccchcczccccccccccccccccckccccccccccfccccccccccccccccccvpcccAccccccCvfcaxgab 356 265 0 
+90 div:int (none) 65 6 9 101 88 379 0.23219 9 3476 -1 3 0 clock wCcagcccccccccccccccpccccccccccccccucccccccccccccccccccccccccccccccctccccccccccfccccccccccccCvfcaxgab 362,422,423,484,542,544 131,99,131,131,99,98 0,0,0,0,0,0 
+343 div:int (none) 187 1 1 100 0 0 0 13 4961 -1 4 0 clock wcagccccccpcccccccqpccccccccccccccccccccccccccccccciccccccccccccccccccccccccccccqccccccccccCvfcaxgab 365 552 0 
+412 div:int (none) 237 1 1 100 0 0 0 14 5252 -1 5 0 clock wecagccccccuccccccccccccccccccccccccccccnccccccccccccccccccccccccAccccccccccccycccccccccccACvfcaxgab 482 249 0 
+527 div:int (none) 298 1 1 101 0 0 0 14 5483 -1 6 0 clock wCcagcccccccckcccccdpcccccccccccxcccckccccccuccccccccccccccccccccccctccccccccccfccceccccccccCvfcaxgab 546 27 0 
+458 div:int (none) 285 1 1 101 0 0 0 14 5353 -1 5 0 clock wCcagccccccccccccccccccccccccccccccccpccccccccCjcccccccccccqccccckcccccccccccccfccecccmcccccCvfcaxgab 3061 198 0 
+297 div:int (none) 153 1 1 101 0 0 0 12 4664 -1 4 0 clock wCcaAccccccccccccccccccccccccccccccccpccccccccCjccccccccccccjcccccccccccbcccccccccccccccccccCvfcaxgab 3121 917 0 
+389 div:int (none) 221 2 2 101 98 387 0.25323 13 5056 -1 6 0 clock wCcagcccccbgccccccccccccccccccccpccccpccccccccCjccccccccccccdccccccccccccccccrccccccccccccccCvfcaxgab 3128,3188 132,131 0,0 
+251 div:int (none) 116 1 1 107 96 400 0.24 12 4573 -1 8 0 clock aaaaaawCcagccccccpccccccccccchcccccccccccccpcccccccccjyccccccCccccccccBccccccccBcccccoceccccwcccccCvfcaxgab 3186 195 0 
+505 div:int (none) 145 1 1 101 0 0 0 14 5407 -1 4 0 clock wCcagcccccccccccccccuccccBcccccccccccpcccccccccjccccckcaccccccccccccccccccccccccccccccccccccCvfcaxgab 65 120 0 
+528 div:int (none) 145 1 1 101 0 0 0 14 5490 -1 4 0 clock wCcagccccccccccccdccuccccBcccccccccccpcccccccccjccccccccccccccccccccccccccccccccccccccccccccCvfcaxgab 183 20 0 
+137 div:int (none) 62 5 5 101 98 389 0.251928 10 3861 -1 3 0 clock wCcagcccccccccccccccuccccccccccccccccpcccccccccjccccccccccccccccccccccccccccccdcccccccccccccCvfcaxgab 185,245,247,306,308 198,197,131,131,132 0,0,0,0,0 
+344 div:int (none) 137 2 2 100 97 385 0.251948 13 4962 -1 4 0 clock wCcagcccccccccccccccuccccccccccccccccpcccccccccjccccccccccccccccccccccccccccccdccccccccccccCvfcaxgab 246,305 197,165 0,0 
+160 div:int (none) 26 2 2 100 87 373 0.233244 10 4023 -1 4 0 clock wCcagcccccccccccccccccccccccccczcccccccccccccccyckccccccccccfccccccccccccccccjccpcccAccccccCvfcaxgab 354,414 264,297 0,0 
+298 div:int (none) 218 2 2 101 95 384 0.247396 12 4666 -1 5 0 clock wCcagcccccccckccccccpcccccccccccccccckccccccuccccccccccccccccccccccctccccccccccfccceccccccccCvfcaxgab 425,485 65,32 0,0 
+275 div:int (none) 175 1 1 100 82 365 0.224658 12 4627 -1 6 0 clock wCcagccCccdccccccccccccccccqccccccccccccccCccccccccvcccfbccccccpccccccccccccccycccccccmccccCvfcaxgab 477 89 0 
+390 div:int (none) 301 2 2 101 98 388 0.252577 13 5058 -1 8 0 clock wCcagcscccccccirccccccccccccccccccccccccccccccCjccccccccccccccccccccjccccccccrcccqccccxcccccCvfcaxgab 3068,3127 66,65 0,0 
+459 div:int (none) 152 1 1 101 0 0 0 14 5353 -1 4 0 clock wCcagccccccccccccccccccccccccccccccccpccccccccCjccccccccccccciccccccccccccccccccccecccrcccccCvfcaxgab 3122 165 0 
+482 div:int (none) 371 1 1 101 0 0 0 14 5377 -1 3 0 clock wCcagccccccocccccccccccccccccccccccccpcccccncccjcccccccccccccccccccccccccvcccccccccccccccccpCvfcaxgab 3176 132 0 
+229 div:int (none) 108 1 1 100 0 0 0 12 4431 -1 7 0 clock wCcagcckcccccccccccccccccrccccccccczccccccccccccvccccccccccccccccccccccmccccccccpcscccsccccCvfcaxgyb 3238 1086 0 
+45 div:int (none) 30 4 12 101 98 389 0.251928 7 2740 -1 4 0 clock wCcagccccccgcccccccccccccccccccccccccpccccccccCjcccccccccccccccccccccccccccccrccccccccccccccCvfcaxgab 3363,3364,3365,3424 99,65,164,98 0,0,0,0 
+436 div:int (none) 337 1 1 103 0 0 0 14 5314 -1 3 0 clock wCcagccccccccccccccccccmccccccccccccccpcccccccccjcccccccccccccBccccCccccccccccccccccccccccccccCvfcaxgab 3417 221 0 
+413 div:int (none) 35 1 1 100 0 0 0 14 5259 -1 5 0 clock wCcagccccccccccccccpccccccccccccccczccccccccccccvcccccccccccccccccccccccccccccccpcscccsccccCvfcaxgab 3480 262 0 
+37 div:int (none) 19 0 5 100 90 375 0.24 7 2656 5477 3 0 clock wCcagccccccccccccccccccccccqccccccccccccccCccccccccvccccbccccccpccccccccccccccycccccccmccccCvfcaxgab 
+346 div:int (none) 127 0 1 101 98 392 0.25 13 4966 5450 3 0 clock wCcagccccccccccccccqyccccccccccccccccccccccccccccccccccccccccccccccccccccccccqcccqccccccccccCvfcaxgab 
+367 div:int (none) 278 0 1 101 97 380 0.255263 13 4998 5446 9 0 clock wCcagcccmccccccccocccccccccccccccccccpcccccccccjccccccccccccccccBcdcccsccBvccecccccccccdccccCvfcaxgab 
+92 div:int (none) 69 0 2 102 99 391 0.253197 9 3477 5436 6 0 clock wCcagcccccccccccccccccccccccwccccccrcpcccccccccjcccccccccccccccrBcyccccccBucccccccccccbccccccCvfcaxgab 
+177 div:int (none) 95 0 1 101 98 388 0.252577 11 4195 5414 5 0 clock wCcagcccxcccccccccccccccccccccczccccccccccccccccckcccccccccccccccccpccoccccccccccpcccAccccccCvfcaxgab 
+167 div:int (none) 35 0 1 100 97 381 0.254593 11 4152 5398 5 0 clock wCcagcccccccccccccccjcccccccccccccczccccccccccycvccccccccccccccccczcccccccccccccrcscccsccccCvfcaxgab 
+118 div:int (none) 37 0 2 100 81 365 0.221918 10 3809 5378 4 0 clock wCcagccCcccccccccccccccccccqccccccccccccccCccccccccvccccbccccccpccccccccccccccycccccccmccccCvfcaxgab 
+316 div:int (none) 77 0 1 100 97 380 0.255263 13 4873 5374 6 0 clock wCcagcccccccccccccccccccccccccccccczcccccAccccccvccccccjcccccccccccccccmccccccccpcscccsccccCvfcaxgab 
+78 div:int (none) 56 0 1 103 93 386 0.240933 9 3409 5367 6 0 clock aawCcagcccccccccccccccccchcccccccccccccpcccccccccjcccccccCccccccccBccccccccBcccccpceccccccccccCvfcaxgab 
+354 div:int (none) 279 0 1 101 95 384 0.247396 13 4983 5363 7 0 clock wCcagccccccccccccccccccccccccccccccrcpcccccccccjccccccccccccccccBcyccccccfcccpccccccccccccccCvfcaxgab 
+199 div:int (none) 139 0 1 104 100 398 0.251256 11 4253 5360 6 0 clock aaaawCcagccccccccccyccccccccccclccccccccccccccccccdccccccccccccccccccchcccccccccccdcpccccccchccCvfcaxgab 
+49 div:int (none) 31 0 7 100 97 382 0.253927 7 2775 5360 5 0 clock wCcagcccccccccccccccccccccclccccccccccccccccccdccccccccwccccccccccccccccccccccdcpcccccccccvCvfcaxgab 
+187 div:int (none) 127 0 1 101 98 391 0.250639 11 4222 5343 3 0 clock wCcagccccccpcccccccqpccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccqccccccccccCvfcaxgab 
+127 div:int (none) 24 0 2 101 98 392 0.25 10 3844 5341 2 0 clock wCcagccccccccccccccqpccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccqccccccccccCvfcaxgab 
+253 div:int (none) 192 0 2 101 97 385 0.251948 12 4578 5336 6 0 clock wCcagcczcccccccccccccccccccccccccccccpcccccckccjccccccccccccccccBccecccccBccjcccccccccccccccCvfcaxgab 
+337 div:int (none) 3 0 1 102 99 394 0.251269 13 4944 5331 2 0 clock wCcagccccccccccccccccccccccccccccccccpcccccccccjcccccccccccccBcccccccccccccccccccccccccccccccCvfcaxgab 
+259 div:int (none) 3 0 1 100 97 387 0.250646 12 4594 5316 2 0 clock wCcagccccccccccccccccccccccccccccccccpcccccccccjcccccccccccccccccccccccccccccccccccccccccccCvfcaxgab 
+62 div:int (none) 3 0 4 101 98 390 0.251282 8 3086 5313 2 0 clock wCcagcccccccccccccccuccccccccccccccccpcccccccccjccccccccccccccccccccccccccccccccccccccccccccCvfcaxgab 
+9 div:int (none) 1 0 8 100 97 388 0.25 4 1518 5310 1 0 clock wCcagcccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccyccccccccccccCvfcaxgab 
+246 div:int (none) 182 0 1 100 97 382 0.253927 12 4564 5307 6 0 clock wCcagccaccccccccccccccccccclcdccccccccccccccccdccshcccccccccccccscccccccccccccdcpccccccccccCvfcaxgab 
+44 div:int (none) 7 0 4 100 97 384 0.252604 7 2734 5306 3 0 clock wCcagcccccucccccccccccccccccccczccccccccccccccccckccccccccecccccccccccccccccccccpcccAccccccCvfcaxgab 
+82 div:int (none) 7 0 3 99 96 382 0.251309 9 3437 5279 3 0 clock wCcagcccccccccccccccccccccccccczccccccccccccccccckcccccccccccccccccccccccccccccpcccAccccccCvfcaxgab 
+194 div:int (none) 92 0 1 102 90 381 0.23622 11 4240 5276 7 0 clock wCcagcccccccccccccccccccccccwccccccrcpcccccccccjcccccccccccccccrBcyccccccBuccccCccccccbccccccCvfcaxgab 
+77 div:int (none) 35 0 2 100 97 382 0.253927 9 3370 5241 5 0 clock wCcagcccccccccccccccccccccccccccccczccccccccccccvccccccccccccccccccccccmccccccccpcscccsccccCvfcaxgab 
+108 div:int (none) 77 0 2 100 97 381 0.254593 10 3722 5230 6 0 clock wCcagcckccccccccccccccccccccccccccczccccccccccccvccccccccccccccccccccccmccccccccpcscccsccccCvfcaxgab 
+140 div:int (none) 58 0 2 103 90 385 0.233766 10 3873 5110 6 0 clock wCcagcccccccccccccccccccccclccccccccccccccmccccccyccccfccccccccccccccccccccccccccccpccccciccccCvfcaxgab 
+292 div:int (none) 216 0 1 104 91 387 0.235142 12 4659 5075 8 0 clock wCcagccccccccBccccccccccccclcucccccccccccccmccccccyccccfccccccccccccccccccccccccccccpccccciccccCvfcaxgab 
+195 div:int (none) 132 0 1 102 50 340 0.147059 11 4240 5055 6 0 clock wCcagcccxcccccccccccccccccccccczcccccccccccccpcccckcccccccccccccccccpcccccccccccccpcccAccccccCvfhaxgab 
+278 div:int (none) 148 0 1 101 97 381 0.254593 12 4633 5042 8 0 clock wCcagcccmccccccccocccccccccccccccccccpcccccccccjccccccccccccccccBcccccsccBvccecccccccccdccccCvfcaxgab 
+148 div:int (none) 71 0 2 101 97 382 0.253927 10 3904 5040 7 0 clock wCcagccccccccccccocccccccccccccccccccpcccccccccjccccccccccccccccBcccccsccBvccecccccccccdccccCvfcaxgab 
+294 div:int (none) 143 0 1 100 91 375 0.242667 12 4660 5008 6 0 clock wCcagcccccccccccccccfcccccclccccccccccccccccrccccxcccccccccdccccccccccccccccyvccpccccccicccCvfcaxgab 
+17 div:int (none) 13 0 5 100 96 384 0.25 5 1968 5004 4 0 clock wCcagcccccccccccccccccccccclccccccccccccccccccdccsccccccccccccccccccccccccccccdcpccccccccccCvfcaxgab 
+86 div:int (none) 16 0 3 101 98 388 0.252577 9 3462 5000 5 0 clock wCcagccccccccccccccccccccccccccccccccpcccccccccjcccccccccccccccclccccccccBcccccpccccccccccccCvfcaxgab 
+69 div:int (none) 47 0 3 101 98 387 0.25323 8 3123 4985 5 0 clock wCcagccccccccccccccccccccccccccccccrcpcccccccccjccccccccccccccccBcyccccccBccccccccccccccccccCvfcaxgab 
+70 div:int (none) 10 0 2 101 97 387 0.250646 8 3129 4978 4 0 clock wCcagccccccccccccccccccccccccccccccccpcccccccccjccccccccccccccccBccecccccBccccccccccccccccccCvfcaxgab 
+68 div:int (none) 44 0 3 100 97 383 0.253264 8 3118 4976 4 0 clock wCcagcccccucccccccccccccccccccczccccccccccccccccckccccccccecccccrcccccccccccccccpcccAccccccCvfcaxgab 
+172 div:int (none) 16 0 1 100 97 383 0.253264 11 4175 4969 5 0 clock wCcagccccccccccccccccccccccccccccccccpcccccccccjcccccccccccccccBccccccccBcccccpccccccccAcccCvfcaxgab 
+219 div:int (none) 149 0 1 101 98 389 0.251928 11 4296 4967 6 0 clock wCcagcccccccccicccccccccccccccccccccccccccccccCjccccccccccccccccccccjccccccccrcccqccccxcccccCvfcaxgab 
+53 div:int (none) 9 0 4 100 97 387 0.250646 8 3020 4954 2 0 clock wCcagcccccccccccccccccccccccccccccccccccncccccccccccccccccccccccccccccccccccccyccccccccccccCvfcaxgab 
+123 div:int (none) 17 0 2 100 96 384 0.25 10 3827 4952 5 0 clock wCcagccccccccccccccccccbccclccccccccccccccccccdccsccccccccccccccccccccccccccccdcpccccccccccCvfcaxgab 
+109 div:int (none) 53 0 3 100 97 387 0.250646 10 3755 4950 3 0 clock wCcagcccccccccccccccccccccccccccccccccccncccccccccccccccccccccccccccccccccccccycccccccccccACvfcaxgab 
+169 div:int (none) 113 0 2 100 97 385 0.251948 11 4167 4940 4 0 clock wCcagcccccccccccccccccccccccccccccccccccecccccccccccccccrccccccccccccyccccccccyccccccccccccCvfcaxgab 
+99 div:int (none) 49 0 1 100 97 382 0.253927 9 3520 4937 6 0 clock wCcagcccccccccccccccccccccolccccccccccccccccccdccccccccwccccccccccccccccccccccdcpccccccwccvCvfcaxgab 
+238 div:int (none) 172 0 1 100 97 380 0.255263 12 4539 4928 6 0 clock wCcagccccccccccBccccnccccccccccccccccpcccccccccjcccrcccccccccccBccccccccBcccccpccccccccAcccCvfcaxgab 
+153 div:int (none) 12 0 1 101 98 390 0.251282 10 3924 4873 3 0 clock wCcagccccccccccccccccccccccccccccccccpccccccccCjccccccccccccjcccccccccccccccccccccccccccccccCvfcaxgab 
+224 div:int (none) 26 0 1 101 88 378 0.232804 11 4363 4834 4 0 clock wCcagccccccdcccccccccccccccccccczccccccccccccccccckccccccccccfcccccccccccccccccccpcccAccccccCvfcaxgab 
+222 div:int (none) 39 0 1 101 88 377 0.233422 11 4318 4719 5 0 clock wCcagcccBcccccccccccccccccclccccccccccccccccccciccccfccccccccccccccccccccccccccccpccccciccccCvfcaxgab 
+142 div:int (none) 65 0 1 101 95 387 0.245478 10 3882 4677 3 0 clock wCcagcccccccccccccccpccccccccccccccccccccccccccccccccccccccccccccccctccccccccccfccceccccccccCvfcaxgab 
+6 div:int (none) 3 0 8 101 98 390 0.251282 3 1161 4656 2 0 clock wCcagccccccccccccccccccccccccccccccccpcccccccccjcccccccccccccccccccccccccBccccccccccccccccccCvfcaxgab 
+139 div:int (none) 67 0 1 100 97 382 0.253927 10 3867 4647 5 0 clock wCcagccccccccccyccccccccccclccccccccccccccccccdccccccccccccccccccchcccccccccccdcpccccccchccCvfcaxgab 
+192 div:int (none) 70 0 1 101 97 387 0.250646 11 4231 4621 5 0 clock wCcagcczcccccccccccccccccccccccccccccpcccccccccjccccccccccccccccBccecccccBccccccccccccccccccCvfcaxgab 
+124 div:int (none) 84 0 1 100 97 384 0.252604 10 3828 4610 5 0 clock wCcagcccccccccccccccccccccclcccccccccccccccccccccscccccccAccccccccccccccccccccBcpccccccccccCvfcaxgab 
+149 div:int (none) 100 0 1 101 98 389 0.251928 10 3914 4607 5 0 clock wCcagcccccccccicccccccccccccccccccccccccccccccCjccccccccccccccccccccjccccccccrccccccccxcccccCvfcaxgab 
+182 div:int (none) 17 0 1 100 96 383 0.250653 11 4208 4600 5 0 clock wCcagcccccccccccccccccccccclcdccccccccccccccccdccsccccccccccccccccccccccccccccdcpccccccccccCvfcaxgab 
+36 div:int (none) 9 0 5 100 97 387 0.250646 7 2647 4593 2 0 clock wCcagcccccccccccccccccccccccccccccccccccccccccccccccccccdcccccccccccccccccccccyccccccccccccCvfcaxgab 
+133 div:int (none) 70 0 1 102 98 391 0.250639 10 3854 4578 5 0 clock wCcagccccccccccccccccccccccccccccccccpcccccccccjccccccccccccccccBccdecccccBccccccccccccccccccCvfcaxgab 
+154 div:int (none) 48 0 1 100 96 383 0.250653 10 3926 4575 4 0 clock wCcagccccccccccccccAccccccclccccccccccccccccecqcccccccccccccccccccccccccccccycccpccccccccccCvfcaxgab 
+95 div:int (none) 64 0 1 101 98 389 0.251928 9 3487 4548 4 0 clock wCcagcccxcccccccccccccccccccccczccccccccccccccccckcccccccccccccccccpcccccccccccccpcccAccccccCvfcaxgab 
+64 div:int (none) 7 0 1 101 98 389 0.251928 8 3094 4265 3 0 clock wCcagcccccccccccccccccccccccccczccccccccccccccccckcccccccccccccccccpcccccccccccccpcccAccccccCvfcaxgab 
+48 div:int (none) 4 0 1 100 97 385 0.251948 7 2751 4260 3 0 clock wCcagcccccccccccccccccccccclccccccccccccccccecccccccccccccccccccccccccccccccycccpccccccccccCvfcaxgab 
+132 div:int (none) 95 0 1 102 99 392 0.252551 10 3852 4259 5 0 clock wCcagcccxcccccccccccccccccccccczcccccccccccccpcccckcccccccccccccccccpcccccccccccccpcccAccccccCvfcaxgab 
+30 div:int (none) 12 0 3 101 98 390 0.251282 6 2368 4240 3 0 clock wCcagccccccccccccccccccccccccccccccccpccccccccCjcccccccccccccccccccccccccccccrccccccccccccccCvfcaxgab 
+10 div:int (none) 6 0 3 101 98 389 0.251928 4 1538 4231 3 0 clock wCcagccccccccccccccccccccccccccccccccpcccccccccjccccccccccccccccBccccccccBccccccccccccccccccCvfcaxgab 
+100 div:int (none) 30 0 1 101 98 389 0.251928 9 3525 4230 4 0 clock wCcagcccccccccicccccccccccccccccccccccccccccccCjccccccccccccccccccccjccccccccrccccccccccccccCvfcaxgab 
+67 div:int (none) 13 0 2 100 97 384 0.252604 8 3117 4223 4 0 clock wCcagccccccccccyccccccccccclccccccccccccccccccdcccccccccccccccccccccccccccccccdcpccccccccccCvfcaxgab 
+31 div:int (none) 13 0 2 100 97 385 0.251948 6 2369 4208 4 0 clock wCcagcccccccccccccccccccccclccccccccccccccccccdccccccccwccccccccccccccccccccccdcpccccccccccCvfcaxgab 
+65 div:int (none) 24 0 1 101 88 380 0.231579 8 3104 4199 2 0 clock wCcagcccccccccccccccpccccccccccccccccccccccccccccccccccccccccccccccctccccccccccfccccccccccccCvfcaxgab 
+4 div:int (none) 2 0 8 100 97 387 0.250646 2 781 3960 2 0 clock wCcagcccccccccccccccccccccclccccccccccccccccccccccccccccccccccccccccccccccccccccpccccccccccCvfcaxgab 
+71 div:int (none) 46 0 1 101 98 385 0.254545 8 3152 3925 6 0 clock wCcagccccccccccccccccccccccccccccccccpcccccccccjccccccccccccccccBcccccsccBvccccccccccccdccccCvfcaxgab 
+72 div:int (none) 48 0 1 100 97 384 0.252604 8 3161 3886 4 0 clock wCcagcccccccccccccccccccccclcccccccccccccccceccccccccccccccdccccccccccccccccycccpccccccccccCvfcaxgab 
+24 div:int (none) 1 0 3 101 98 392 0.25 6 2333 3859 1 0 clock wCcagcccccccccccccccpcccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccCvfcaxgab 
+7 div:int (none) 2 0 5 100 97 386 0.251295 3 1180 3830 2 0 clock wCcagcccccccccccccccccccccccccczccccccccccccccccckccccccccccccccccccccccccccccccpcccAccccccCvfcaxgab 
+56 div:int (none) 16 0 1 101 91 378 0.240741 8 3049 3808 5 0 clock wCcagcccccccccccccccccchcccccccccccccpcccccccccjcccccccCccccccccBccccccccBcccccpceccccccccccCvfcaxgab 
+21 div:int (none) 4 0 2 100 97 386 0.251295 6 2281 3558 3 0 clock wCcagcccccccccccccccccccccclccccccccccccccccccccccccccccccccccccccccccccccccccccpccccciccccCvfcaxgab 
+47 div:int (none) 10 0 1 101 98 388 0.252577 7 2748 3494 4 0 clock wCcagccccccccccccccccccccccccccccccrcpcccccccccjccccccccccccccccBccccccccBccccccccccccccccccCvfcaxgab 
+59 div:int (none) 4 0 1 100 97 386 0.251295 8 3065 3481 3 0 clock wCcagcccccccccccccccccccccclcccccccccccccccccccccsccccccccccccccccccccccccccccccpccccccccccCvfcaxgab 
+34 div:int (none) 9 0 2 100 97 388 0.25 7 2627 3427 2 0 clock wCcagccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccczcccccyccccccccccccCvfcaxgab 
+8 div:int (none) 2 0 3 100 97 387 0.250646 4 1513 3185 2 0 clock wCcagcccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccpcsccccccccCvfcaxgab 
+27 div:int (none) 10 0 1 101 98 388 0.252577 6 2341 3076 4 0 clock wCcagccccccccccccccccccccccccccccccccpcccccccccjccccccccccccccccBcccccsccBccccccccccccccccccCvfcaxgab 
+1 div:ext (none) (none) 0 2 100 97 389 0.249357 0 -1 3061 0 0 clock wCcagccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccCvfcaxgab 
+19 div:int (none) 9 0 1 100 97 384 0.252604 6 2268 3041 2 0 clock wCcagccccccccccccccccccccccccccccccccccccccccccccccvccccccccccccccccccccccccccycccccccmccccCvfcaxgab 
+2 div:int (none) 1 0 1 100 97 388 0.25 1 388 2717 1 0 clock wCcagcccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccpccccccccccCvfcaxgab 
+20 div:int (none) 8 0 1 100 97 384 0.252604 6 2275 2664 3 0 clock wCcagcccccccccccccccccccccccccccccczccccccccccccvcccccccccccccccccccccccccccccccpcsccccccccCvfcaxgab 
