@@ -34,11 +34,11 @@ Some ideas:
 * [Phabricator](https://phabricator.wikimedia.org) as it is used for Wikimedia projects
 * we already have a Google group that could also be used, which is, however, not open to a broader audience
 
-## Open Science Side projects
+## Open Science Side Projects
 
 Thinking about the Open Science Statement lead to some new side projects that would have some universally use for the community.
 
-### Guide for starting a research project on GitHub
+### Guide for Starting a Research Project on GitHub
 
 The fellowship allowed me to start a new project on the evolution of circadian clocks using digital organisms. I'll use GitHub for most of my work as an interaction platform, for version control, and as a storage of code and data. This lead to the questions of how to start a scientific project on GitHub and what is needed for others to interact with the project. The lessons learned from starting and maintaining a GitHub repo will be summarized in a guide for others that want to use GitHub for their projects. The [Mozilla Science Lab](https://github.com/mozillascience/working-open-workshop) already provides some useful tips, which also helped me in the beginning. The guide can be found [here](https://github.com/schmelling/how_to_science_repo)
 
