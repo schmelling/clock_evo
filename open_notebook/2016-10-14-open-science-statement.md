@@ -1,6 +1,6 @@
 ## The Fellow Program
 
-This project is part of an [open science fellow program](https://www.wikimedia.de/wiki/Fellowprogramm) funded by [Wikimedia](https://wikimediafoundation.org/wiki/Home) and [Stifterverband](stifterverband bonn). Within the fellow program is mentored by an open science expert, which is in my case [Daniel Mietchen (@EvoMRI)](https://twitter.com/evomri?lang=de). More information about the fellow program can be found in the [Wikimedia blog](wikipedia tipos de blogs) (only in german).
+This project is part of an [open science fellow program](https://www.wikimedia.de/wiki/Fellowprogramm) funded by [Wikimedia](https://wikimediafoundation.org/wiki/Home) and [Stifterverband](https://www.stifterverband.org/). Within the fellow program is mentored by an open science expert, which is in my case [Daniel Mietchen (@EvoMRI)](https://twitter.com/evomri?lang=de). More information about the fellow program can be found in the [Wikimedia blog](https://blog.wikimedia.de/) (only in german).
 
 This week I had my first Skype meeting with Daniel to discuss some general reporting procedures and first progresses on the project.
 
