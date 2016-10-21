@@ -31,6 +31,12 @@ INST time
 The environment file stores information about resources and their availability as well as reaction i.e. logic tasks and their reward and dependence on a resource. I added a first resource and removed some more difficult tasks as in the adaptive sleep experiment. Furthermore, I added some dependences for the tasks such that they rely on the presence of the resource, their reward, as well as the fraction of that resource that can maximally be consumed.
 
 ```
+RESOURCE day:inflow=1:outflow=0.01
+
+REACTION  NOT  not   process:resource=day:value=1500.0:frac=0.0025:max=20
+REACTION  NAND nand  process:resource=day:value=1500.0:frac=0.0025:max=20
+REACTION  AND  and   process:resource=day:value=2000.0:frac=0.0025:max=13
+REACTION  ORN  orn   process:resource=day:value=2000.0:frac=0.0025:max=13
 ```
 
 ### events_clock.cfg
@@ -38,6 +44,17 @@ The environment file stores information about resources and their availability a
 The events file stores the instructions for data collection and changes to the environment during a Avida run. I added some new data collection to default set. This can still be extended. Right now I'm just playing with different options. The hardest part here was to get the resource oscillating i.e. alternating between presence and absence. For now I have only one resource oscillating to first reproduce the results of the adaptive sleep experiment. If I have sensing/sleeping organisms I will start to add the second resource. I get the resource to oscillate, however, I see a decrease in the amount of the resource over time, which should not be happening. This is problem I need to solve next week.
 
 ```
+u 0:10:end PrintTasksExeData
+...
+u 0:10:end PrintSenseData
+u 0:10:end PrintSenseExeData
+u 0:10:end PrintSleepData
+
+u 1280:2560:end SetResource day 10000
+u 1280:2560:end SetResourceInflow day 100
+
+u 2560:2560:end SetResource day 0
+u 2560:2560:end SetResourceInflow day 0    
 ```
 
 ### avida.cfg
@@ -45,6 +62,17 @@ The events file stores the instructions for data collection and changes to the e
 The avida config file stores more or less all of the information about the experiment. I didn't change much here, however I neede to change the file paths for events, environment, etc. and as in the adaptive sleep experiment I allow for only one CPU cycle per update.
 
 ```
+### CONFIG_FILE_GROUP ###
+# Other configuration Files
+DATA_DIR data                           # Directory in which config files are found
+EVENT_FILE events_clock.cfg             # File containing list of events during run
+ANALYZE_FILE analyze.cfg                # File used for analysis mode
+ENVIRONMENT_FILE environment_clock.cfg  # File that describes the environment
+
+#include INST_SET=instset-clock.cfg
+...
+# Time Slicing
+AVE_TIME_SLICE 1            # Average number of CPU-cycles per org per update 
 ```
 ## First Avida test runs
 
