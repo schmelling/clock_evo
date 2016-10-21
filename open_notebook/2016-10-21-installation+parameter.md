@@ -50,8 +50,12 @@ The avida config file stores more or less all of the information about the exper
 
 To get started I ran one Avida experiment with default setting to get an idea about the different data and what a "normal" value for example merit is. I also ran some shorter runs to test my parameter settings for the oscillating resource. After that was good I ran one longer experiment with "sleeping" settings. I also took a quick look at the data and found some unexpected behavior of the resource, which needs to be fixed.
 
+## Some Thoughts
+
+Even though it doesn't seem like much, it was a week of work to get the information needed. This got me thinking that there is some work that needs to be down in the documentation of Avida, which is by the way great and comprehesive, but lack some entry level introduction and some more explanations here and there. For now I will write down ideas, thoughts, and more here. But I will definitely help to improve their documentation later on in the project.
+
 ## Open Science Side Projects
 
-During the Avida experiments, which usually run for ~30 min on my computer, I had time to start working on my Python reference repo. There I just organized to first directories for different topics and added some first links to jupyter notebooks and other online resources. 
+During the Avida experiments, which usually run for ~30 min on my computer, I had time to start working on my Python reference repo. There I just organized to first directories for different topics and added some first links to jupyter notebooks and other online resources.
 
 -- Cheers, Nic

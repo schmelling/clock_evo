@@ -1,6 +1,6 @@
 ## The Fellow Program
 
-This project is part of an [open science fellow program](https://www.wikimedia.de/wiki/Fellowprogramm) funded by [Wikimedia](https://wikimediafoundation.org/wiki/Home) and [Stifterverband](stifterverband bonn). Within the fellow program is mentored by an open science expert, which is in my case [Daniel Mietchen (@EvoMRI)](https://twitter.com/evomri?lang=de). More information about the fellow program can be found in the [Wikimedia blog](wikipedia tipos de blogs) (only in german).
+This project is part of an [open science fellow program](https://www.wikimedia.de/wiki/Fellowprogramm) funded by [Wikimedia](https://wikimediafoundation.org/wiki/Home) and [Stifterverband](https://www.stifterverband.org/). Within the fellow program is mentored by an open science expert, which is in my case [Daniel Mietchen (@EvoMRI)](https://twitter.com/evomri?lang=de). More information about the fellow program can be found in the [Wikimedia blog](https://blog.wikimedia.de/) (only in german).
 
 This week I had my first Skype meeting with Daniel to discuss some general reporting procedures and first progresses on the project.
 
@@ -23,10 +23,20 @@ Goals of the fellow program:
 
 The discussion helped my a lot to formulate my statement, but we also agreed that the formulation was a little bit misleading.
 
+<<<<<<< HEAD
 ```
 During my project I will work on the evolution of circadian clocks using digital organisms. In the process the code and the data will be available under an open license on GitHub. Furthermore I will write about my progress, problems, and thoughts in an open lab notebook.
 ```
 
+=======
+__Open Science Statement__
+```
+During my project I will work on the evolution of circadian clocks using digital organisms.
+In the process the code and the data will be available under an open license on GitHub.
+Furthermore I will write about my progress, problems, and thoughts in an open lab notebook.
+```
+### Improvements to the fellow program
+>>>>>>> df3c0590468e4a506ef23becd61aae77a3e2ca46
 Since this is the pilot run of the fellowship one would expect some imperfections, which is prefectly fine. Daniel and I thought that some kind of forum where we could discuss such misunderstandings would be useful.
 
 Some ideas:
@@ -44,6 +54,10 @@ The fellowship allowed me to start a new project on the evolution of circadian c
 
 ### Python Reference List
 
+<<<<<<< HEAD
 I will analyze and visualize the data produced in the project using Python and this got me thinking about other people that want to contribute to the project but do not know much about Python. Therefore I will try to create a reference list for Python. This will at first be a [GitHub repo](https://github.com/schmelling/python_materials) where I sort links to books, videos, online tutorials and more, in categories. This repo will thus mainly contain various markdown files.
+=======
+I will analyze and visualize the data produced in the project using Python and this got me thinking about other people that want to contribute to the project but do not know much about Python. Therefore I will try to create a reference list for Python. This will at first be a [GitHub repo](https://github.com/schmelling/python_materials) where I sort links to books, videos, online tutorials and more, in categories. This repo will thus manly contain various markdown files.
+>>>>>>> df3c0590468e4a506ef23becd61aae77a3e2ca46
 
 -- Cheers, Nic
