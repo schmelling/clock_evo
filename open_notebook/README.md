@@ -7,6 +7,8 @@ The open lab notebook includes blog-like entries in markdown format, which conta
 ### Content
 
 * [Open Science Statement](https://github.com/schmelling/clock_evo/blob/master/open_notebook/2016-10-14-open-science-statement.md)
+* [Installation and Parameter](https://github.com/schmelling/clock_evo/blob/master/open_notebook/2016-10-21-installation%2Bparameter.md)
+* [Screencast and Docker](https://github.com/schmelling/clock_evo/blob/master/open_notebook/2016-10-28-screencast%2Bdocker.md)
 
 ## Reporting Workflow
 
