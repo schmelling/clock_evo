@@ -16,7 +16,7 @@ This file stores the starting organisms genome. I just had to change the first l
 
 ### instset-clock.cfg
 
-This file stores the genetic code. So all possible instructions that an organisms can have in its genome. I had to add three new instructions, which were `time`, `sleep`, and `sense`. `sense` and `time` are necessary for the experiment, as it needs to be possible [!!something missing here] the sense resources and the time between the occurence of these resources. I also allow `sleep` in the instruction set, because it got to be a valid strategy to just do nothing for a while instead of using the second resource. Furthermore, I had to change the default organism name in the first line.
+This file stores the genetic code. So all possible instructions that an organisms can have in its genome. I had to add three new instructions, which were `time`, `sleep`, and `sense`. `sense` and `time` are necessary for the experiment, as it needs to be possible to sense resources and the time between the occurence of these resources. I also allow `sleep` in the instruction set, because it got to be a valid strategy to just do nothing for a while instead of using the second resource. Furthermore, I had to change the default organism name in the first line.
 
 ```
 INSTSET clock:hw_type=0
@@ -72,7 +72,7 @@ ENVIRONMENT_FILE environment_clock.cfg  # File that describes the environment
 #include INST_SET=instset-clock.cfg
 ...
 # Time Slicing
-AVE_TIME_SLICE 1            # Average number of CPU-cycles per org per update 
+AVE_TIME_SLICE 1            # Average number of CPU-cycles per org per update
 ```
 ## First Avida test runs
 
