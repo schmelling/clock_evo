@@ -34,7 +34,7 @@ In meinem Projekt versuche ich genau diese Fragen zu beantworten. Ich möchte ve
 Im Laufe des Projektes sind unter anderem zwei Nebenprojekte entstanden. Während ich angefangen habe mein Projekt auf [GitHub](https://de.wikipedia.org/wiki/GitHub), einer Plattform für kollaboratives Arbeiten und [Version Control](https://de.wikipedia.org/wiki/Versionsverwaltung) für Programmierprojekte, zu beginnen, kamen immer wieder Fragen auf, die sich mit dem korrekten Aufbau eines wissenschaftlichen Projektes auf GitHub beschäftigt haben. Welche Lizenz brauche ich, wenn ich überhaupt eine brauche? Was passiert mit meinen Daten und wo speichere ich diese am besten? Das hat dazu geführt, dass ein weiteres Projekt entstanden ist, welches eine Anleitung für ähnliche Projekte auf GitHub werden soll.
 Des Weiteren wollte ich für meine Datenanalyse die Programmiersprache [Python](https://de.wikipedia.org/wiki/Python_(Programmiersprache)) verwenden. Damit jedoch jeder die Möglichkeit hat an meinem Projekt teilzuhaben, war es für mich wichtig eine Referenzsammlung zu erstellen, die jedem den Einstieg erleichtern würde. Beide Projekte sind ebenfalls auf GitHub zu finden und für beide, wie auch dem Hauptprojekt, ist Mithilfe immer gerne gesehen.
 
---Cheers Nic
+-- Cheers Nic
 
 ## Links zu den Projekten
 * [Evolution von circadianen Uhren](https://github.com/schmelling/clock_evo)
@@ -42,17 +42,20 @@ Des Weiteren wollte ich für meine Datenanalyse die Programmiersprache [Python](
 * [Python Referenzsammlung](https://github.com/schmelling/python_materials)
 
 ## Referenzen
-1. [Zukunft der Arbeit](http://www.ard.de/home/themenwoche/ARD_Themenwoche_2016_Zukunft_der_Arbeit/3234726/index.html)
-2. [Replikation](https://de.wikipedia.org/wiki/Reproduktion)
-3. [Variation](https://de.wikipedia.org/wiki/Phänotypische_Variation)
-4. [Konkurrenz](https://de.wikipedia.org/wiki/Konkurrenz_(Ökologie))
-5. [Bakterien](https://de.wikipedia.org/wiki/Bakterien)
-6. [Avida](http://www.ofria.com/pubs/2004OfriaEtAl.pdf)
-7. [Computer-basierte Evolutionsbiologie](https://youtu.be/ouF8wKxXWFQ)
-8. [Artikel](http://discovermagazine.com/2005/feb/cover/#.URRxZOjZrbI)
-9. [circadiane Uhr](https://de.wikipedia.org/wiki/Circadiane_Rhythmik)
-10. [Rosbach, 2009](http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1000062)
-11. [Woelfle et al., 2004](https://www.researchgate.net/publication/8386795_The_adaptive_value_of_circadian_clocks_An_experimental_assessment_in_cyanobacteria)
-12. [GitHub](https://de.wikipedia.org/wiki/GitHub)
-13. [Version Control](https://de.wikipedia.org/wiki/Versionsverwaltung)
-14. [Python](https://de.wikipedia.org/wiki/Python_(Programmiersprache))
+1. Arbeitsgemeinschaft der öffentlich-rechtlichen Rundfunkanstalten der Bundesrepublik Deutschland (ARD): ARD Themenwoche [Zukunft der Arbeit](http://www.ard.de/home/themenwoche/ARD_Themenwoche_2016_Zukunft_der_Arbeit/3234726/index.html), URL: http://www.ard.de/home/themenwoche/ARD_Themenwoche_2016_Zukunft_der_Arbeit/3234726/index.html (Stand: 10. November 2016).
+2. Seite [Replikation](https://de.wikipedia.org/wiki/Reproduktion). In: Wikipedia, die freie Enzyklopädie. Bearbeitungsstand: 8. November 2016 um 11:17 UTC. URL: https://de.wikipedia.org/wiki/Reproduktion (Abgerufen: 10. November 2016)
+3. Seite [Variation](https://de.wikipedia.org/wiki/Phänotypische_Variation). In: Wikipedia, die freie Enzyklopädie. Bearbeitungsstand: 7. Februar 2016 um 23:00 UTC. URL: https://de.wikipedia.org/wiki/Phänotypische_Variation (Abgerufen: 10. November 2016)
+4. Seite [Konkurrenz](https://de.wikipedia.org/wiki/Konkurrenz_(Ökologie)). In: Wikipedia, die freie Enzyklopädie. Bearbeitungsstand: 20. Oktober 2016 um 20:50 UTC. URL: https://de.wikipedia.org/wiki/Konkurrenz_(Ökologie) (Abgerufen: 10. November 2016)
+5. Seite [Bakterien](https://de.wikipedia.org/wiki/Bakterien). In: Wikipedia, die freie Enzyklopädie. Bearbeitungsstand: 7. November 2016 um 00:49 UTC. URL: https://de.wikipedia.org/wiki/Bakterien (Abgerufen: 10. November 2016)
+6. Ofria, C. and Wilke, C. O. (2004): [Avida: A software platform for research in computational
+evolutionary biology](http://www.ofria.com/pubs/2004OfriaEtAl.pdf). *Journal of Artificial Life*, vol. 10, pp. 191–229,
+International Society of Artificial Life (ISAL)
+7. Randy Olson (2013): [Christoph Adami - Introduction to the digital evolution platform Avida](https://youtu.be/ouF8wKxXWFQ) veröffentlicht am 11. November 2013 unter https://youtu.be/ouF8wKxXWFQ, zugegriffen am 11. November 2016.
+8. Zimmer, Carl (2005): Testing Darwin. *Discover Magazine*. Resort Techonology, 5. Februar 2005 online unter: http://discovermagazine.com/2005/feb/cover/#.URRxZOjZrbI, Zugriff: 10. November 2016
+9. Seite [circadiane Uhr](https://de.wikipedia.org/wiki/Circadiane_Rhythmik). In: Wikipedia, die freie Enzyklopädie. Bearbeitungsstand: 30. August 2016 um 17:49 UTC. URL: https://de.wikipedia.org/wiki/Circadiane_Rhythmik (Abgerufen: 10. November 2016)
+10. Rosbash, M. (2009): [The Implications of Multiple Circadian Clock Origins](http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1000062). *PLoS Biol* 7(3): e1000062. doi:10.1371/journal.pbio.1000062
+11. Woelfle, M.A., Yan, O.Y., Phanvijhitsiri, K., Johnson, C.H. (2004): [The adaptive value of circadian
+clocks: An experimental assessment in cyanobacteria](https://www.researchgate.net/publication/8386795_The_adaptive_value_of_circadian_clocks_An_experimental_assessment_in_cyanobacteria). *Curr. Biol.* 14, 1481-1486.
+12. Seite [GitHub](https://de.wikipedia.org/wiki/GitHub). In: Wikipedia, die freie Enzyklopädie. Bearbeitungsstand: 9. Juni 2016 um 16:50 UTC. URL: https://de.wikipedia.org/wiki/GitHub (Abgerufen: 10. November 2016)
+13. Seite [Version Control](https://de.wikipedia.org/wiki/Versionsverwaltung). In: Wikipedia, die freie Enzyklopädie. Bearbeitungsstand: 23. Oktober 2016 um 14:29 UTC. URL: https://de.wikipedia.org/wiki/Versionsverwaltung (Abgerufen: 10. November 2016)
+14. Seite [Python](https://de.wikipedia.org/wiki/Python_(Programmiersprache)). In: Wikipedia, die freie Enzyklopädie. Bearbeitungsstand: 20. Oktober 2016 um 15:14 UTC. URL: https://de.wikipedia.org/wiki/Python_(Programmiersprache) (Abgerufen: 10. November 2016)
