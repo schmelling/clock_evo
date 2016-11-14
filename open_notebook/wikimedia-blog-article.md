@@ -51,7 +51,7 @@ Des Weiteren wollte ich für meine Datenanalyse die Programmiersprache [Python](
 evolutionary biology](http://www.ofria.com/pubs/2004OfriaEtAl.pdf). *Journal of Artificial Life*, vol. 10, pp. 191–229,
 International Society of Artificial Life (ISAL)
 7. Randy Olson (2013): [Christoph Adami - Introduction to the digital evolution platform Avida](https://youtu.be/ouF8wKxXWFQ) veröffentlicht am 11. November 2013 unter https://youtu.be/ouF8wKxXWFQ, zugegriffen am 11. November 2016.
-8. Zimmer, Carl (2005): Testing Darwin. *Discover Magazine*. Resort Techonology, 5. Februar 2005 online unter: http://discovermagazine.com/2005/feb/cover/#.URRxZOjZrbI, Zugriff: 10. November 2016
+8. Zimmer, Carl (2005): Testing Darwin. *Discover Magazine*. Resort Technology, 5. Februar 2005 online unter: http://discovermagazine.com/2005/feb/cover/#.URRxZOjZrbI, Zugriff: 10. November 2016
 9. Seite [Circadiane Rhythmik](https://de.wikipedia.org/wiki/Circadiane_Rhythmik). In: Wikipedia, die freie Enzyklopädie. Bearbeitungsstand: 30. August 2016 um 17:49 UTC. URL: https://de.wikipedia.org/wiki/Circadiane_Rhythmik (Abgerufen: 10. November 2016)
 10. Rosbash, M. (2009): [The Implications of Multiple Circadian Clock Origins](http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1000062). *PLoS Biol* 7(3): e1000062. doi:10.1371/journal.pbio.1000062
 11. Woelfle, M.A., Yan, O.Y., Phanvijhitsiri, K., Johnson, C.H. (2004): [The adaptive value of circadian
