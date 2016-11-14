@@ -10,6 +10,7 @@ The open lab notebook includes blog-like entries in markdown format, which conta
 * [Installation and Parameter](https://github.com/schmelling/clock_evo/blob/master/open_notebook/2016-10-21-installation%2Bparameter.md)
 * [Screencast and Docker](https://github.com/schmelling/clock_evo/blob/master/open_notebook/2016-10-28-screencast%2Bdocker.md)
 * [Google and Skype](https://github.com/schmelling/clock_evo/blob/master/open_notebook/2016-11-04-google%2Bskype.md)
+* [Retreat and Blogpost](https://github.com/schmelling/clock_evo/blob/master/open_notebook/2016-11-11-retreat%2Bblogpost.md)
 
 ## Reporting Workflow
 
