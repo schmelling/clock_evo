@@ -1,6 +1,8 @@
 ## Experimental Design
 ![alt text](images/ExperimentalDesign.png "Experimental Design")
 
+In my project I want to understand the influence of certain parameters on the evolution of circadian clocks, such as the length of day. Is it important that the length of day and night are constant and similar over the course of a year, similar to the equatorial zone, or can a clock evolve on a hemisphere with changing day lengths and seasons? As soon as I have a better understanding about the environmental conditions for the evolution of a circadian clock, I want to investigate how these clocks change the fitness of the organism in competition with other organisms. How beneficial are circadian clocks compared to organisms without a clock or even organisms with a differently adapted clock?
+
 ### Research Questions
 
 - What are strategies to cope with two alternating, oscillating resources?
