@@ -1,12 +1,12 @@
 ## Wrap Up OpenCon Berlin
-Last week I was back in Berlin for the [OpenCon 2016](http://www.opencon2016.org/opencon_2016_berlin) 'satellite' event. It was a great experience with a lot of smart and inspiring people. Conference from the open science community are so welcoming compared to the most scientific conferences I've been to.     
-The conference was structured into three events. Day 1 was a hackathon mainly about reproducibility, but also people from PaperHive, WorldBrain, or the Open Knowledge Maps had some projects to work on. Day 2 was a regular conference with talks and break out sessions. The last day was a focus group discussion on next steps and ideas about how to put open science to action.
+Last week I was back in Berlin for the [OpenCon 2016](http://www.opencon2016.org/opencon_2016_berlin) 'satellite' event. It was a great experience with a lot of smart and inspiring people. Conferences from the Open Science community are so welcoming compared to the most scientific conferences I've been to. It is simply amazing.    
+The conference was structured into three events. Day 1 was a hackathon mainly about reproducibility, but also people from PaperHive, WorldBrain, or the Open Knowledge Maps had some projects to work on. Day 2 was a "regular" conference with talks and break out sessions. The last day was a focus group discussion on next steps and ideas about how to put Open Science to action.
 
 ### Reproducibility Hackathon
-Prior to the [hackathon](https://github.com/annakrystalli/OpenConBerlin_ReproHack) anyone could [submit papers](https://annakrystalli.shinyapps.io/OpenConBerlin_reprohack/) that where then open for attendance to reproduce during the event. In the end 13 papers with different requirements regarding the programming language and difficulty level were submitted. The hackathon was great experience and should try to host some myself as a teaching event for reproducibility.
+Prior to the [hackathon](https://github.com/annakrystalli/OpenConBerlin_ReproHack) anyone could [submit papers](https://annakrystalli.shinyapps.io/OpenConBerlin_reprohack/), which were then open for those present to reproduce during the event. In the end, 13 papers with different requirements regarding the programming language and difficulty level were submitted. The hackathon was great experience and I should try to host some myself as a teaching event for reproducibility.
 
-We, myself and Tim Korjakow, were trying to reproduce a [paper](http://www.journals.uchicago.edu/doi/10.1086/589889) by [Daniel Falster](https://twitter.com/adaptive_plant). This was actually a pretty easy task, because Daniel did a great job writing his code. We only need to download the code from [figshare](http://dx.doi.org/10.6084/m9.figshare.1094315), open R, install a package, and run one command to reproduce all of his figures. A more comprehensive report can be found in the [issue tracker](https://github.com/annakrystalli/OpenConBerlin_ReproHack/issues/3) or the [etherpad](https://public.etherpad-mozilla.org/p/OpenConBerlin2016_ReproHack_blog). The installation of the additional package was not included in his reproduction instructions, however, it was easy to do it ourself. Nevertheless, we suggest to add these information to the instructions for others who might struggle with it.       
-The greatest part of the reproducibility hackathon was that Daniel, even though he was in Australia, got back to us and [added the suggestions](https://github.com/dfalster/Falster_2008_AmNat_offspring_model). I was so awesome that it worked so easy and that he responded so quickly and was open for these suggestions.
+We, myself and Tim Korjakow, were trying to reproduce a [paper](http://www.journals.uchicago.edu/doi/10.1086/589889) by [Daniel Falster](https://twitter.com/adaptive_plant). This was actually a pretty easy task, because Daniel did a great job writing his code. We only need to download the code from [figshare](http://dx.doi.org/10.6084/m9.figshare.1094315), open R, install a package, and run one command to reproduce all of his figures. A more comprehensive report can be found in the [issue tracker](https://github.com/annakrystalli/OpenConBerlin_ReproHack/issues/3) or the [etherpad](https://public.etherpad-mozilla.org/p/OpenConBerlin2016_ReproHack_blog). The installation of the additional package was not included in his reproduction instructions, however, it was easy for us to add it. Nevertheless, we suggest to add these information to the instructions for others, who might struggle with it.       
+The greatest part of the reproducibility hackathon was that Daniel, even though he was in Australia, got back to us and [added the suggestions](https://github.com/dfalster/Falster_2008_AmNat_offspring_model). It was awesome to see that reproducibility can work so easily and also that Daniel was open for these suggestions.
 
 Other people also had great experiences with reproducing publications, however, there were also some publications we couldn't reproduce at all. It is now planned by [Jon](https://twitter.com/protohedgehog) and [Anna](https://twitter.com/annakrystalli), who organized the hackathon, to write a short article about the experiences and maybe even submit it to [RIO journal](http://riojournal.com/).
 
@@ -26,7 +26,7 @@ In the following I'll list some useful tools and projects that were either prese
 ---
 
 #### [hypothes.is](https://hypothes.is/)
-[hypothes.is](https://hypothes.is/) developed a browser plug-in that lets you annotate web pages. It provides a new layer on top of the normal web pages, where you take notes or discuss content. hypothes.is is also integrated into the Open Knowledge Maps such that you can comment on the publications you found in your search. "It leverages annotation to enable sentence-level critique or note-taking on top of news, blogs, scientific articles, books, terms of service, ballot initiatives, legislation and more."
+[hypothes.is](https://hypothes.is/) developed a browser plug-in that lets you annotate web pages. It provides a new layer on top of a normal web pages, where you take notes or discuss content. hypothes.is is also integrated into the Open Knowledge Maps such that you can comment on the publications you found in your search. "It leverages annotation to enable sentence-level critique or note-taking on top of news, blogs, scientific articles, books, terms of service, ballot initiatives, legislation and more."
 
 [Video](https://youtu.be/QCkm0lL-6lc)
 
@@ -45,7 +45,7 @@ In the following I'll list some useful tools and projects that were either prese
 ---
 
 #### [Overleaf](https://www.overleaf.com/)
-[Overleaf](https://www.overleaf.com/) an online platform for collaborative writing and publishing. It allows you, together with others, to write any kind of document (from research article to presentation) in LaTeX and in a rich text format. Overleaf features also the direct submission to scientific journals and preprint servers. A similar platform is [Authorea](https://www.authorea.com/).
+[Overleaf](https://www.overleaf.com/) is an online platform for collaborative writing and publishing. It allows you, together with others, to write any kind of document (from research article to presentation) in LaTeX and in a rich text format. Overleaf features also the direct submission to scientific journals and preprint servers. A similar platform is [Authorea](https://www.authorea.com/).
 
 [Video](https://youtu.be/g8Ejj0T0yG4)
 
@@ -61,7 +61,7 @@ In the following I'll list some useful tools and projects that were either prese
 #### [figshare](https://figshare.com/)
 "[figshare](https://figshare.com/) wants to open up scientific data to the world" - WIRED
 
-[figshare](https://figshare.com/) is online data repository where researches can store data, code, figures, and presentations. Furthermore, researchers get the get credit they deserve for it by securing the work with a DOI and making it citable.
+[figshare](https://figshare.com/) is an online data repository where researches can store data, code, figures, and presentations. Furthermore, researchers get the credit they deserve for it by securing the work with a DOI and making it citable.
 
 [Video](https://youtu.be/WlJlPmoJcJk)
 
@@ -80,7 +80,7 @@ In the following I'll list some useful tools and projects that were either prese
 ---
 
 #### [Sciencematters](https://www.sciencematters.io/)
-"Here at [Sciencematters](https://www.sciencematters.io/), we publish the true unit of science, the observation. [...] We guarantee publication of all scientifically solid observations. [...] Standard data, orphan data, negative data, confirmatory data and contradictory data are all published."
+[Sciencematters](https://www.sciencematters.io/) publishes "the true unit of science, the observation." They "guarantee publication of all scientifically solid observations", including "standard data, orphan data, negative data, confirmatory data and contradictory data".
 
 [Video](https://vimeo.com/144113476)
 
@@ -100,6 +100,6 @@ In the following I'll list some useful tools and projects that were either prese
 
 ### Up Next
 
-On the last day of OpenCon Berlin we met for a discussion session in a focus group to talk about how to put Open Science to action. We had a lot of ideas on how to raise awareness about Open Science. However, we didn't could to the point where we actually had some guidelines. Thus, we started a [Google Group](https://groups.google.com/forum/?hl=de#!forum/openconberlin_action) and wrote down some thoughts in an [etherpad](https://public.etherpad-mozilla.org/p/OpenConBerlin2016). The goal is to create a "how to guide" or a collection of resources that helps researchers to get started with Open Science and write an article for RIO journal that summarizes our findings.
+On the last day of OpenCon Berlin we met for a discussion session in a focus group to talk about how to put Open Science to action. We had a lot of ideas on how to raise awareness about Open Science. However, we didn't came to the point where we actually had some guidelines. Thus, we started a [Google Group](https://groups.google.com/forum/?hl=de#!forum/openconberlin_action) and wrote down some thoughts in an [etherpad](https://public.etherpad-mozilla.org/p/OpenConBerlin2016). The goal is to create a "how to guide" or a collection of resources that helps researchers to get started with Open Science. Further, we plan on writing an article for RIO journal that summarizes our findings.
 
 -- Cheers, Nic
