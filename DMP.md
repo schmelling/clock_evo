@@ -1,12 +1,13 @@
 # Data Management Plan
+**Note: The following data management plan was copied from the [Ethan White's DMP](http://riojournal.com/articles.php?id=10708) for Moore Investigator in Data Driven Discovery Grant and edited.**
 
 ### Background
 
-This Data Management Plan was created for Clock Evolution project funded by Wikimedia and Stifterverband. It describes the management and sharing of all data and code.
+This Data Management Plan was created for the clock evolution project funded by Wikimedia and Stifterverband. It describes the management and sharing of all data and code.
 
 ## Data Description
 
-The majority of the data involved in this project will be new data generated in the project. This data will typically be tabular data and will be stored in standard data formats. Metadata will be provided for all data products. 
+The majority of the data involved in this project will be new data generated in the project. This data will typically be tabular data and will be stored in standard data formats. Metadata will be provided for all data products.
 
 ## Data Management
 
@@ -23,7 +24,3 @@ In cases where we compile data from other sources we will cite all of the releva
 ### Funding Program
 
 Fellowship 'Freies Wissen' by Wikimedia and Stifterverband.
-
-### Author Contribution
-
-Nicolas Schmelling wrote the Data Management Plan.
