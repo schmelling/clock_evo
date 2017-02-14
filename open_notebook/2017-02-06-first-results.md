@@ -145,7 +145,7 @@ u 2:4:end SetReactionValue ANDN 3
 u 2:4:end SetReactionValue XOR 4
 ```
 ### Results
-**Fitness**
+**Fitness**      
 The figure below shows the average fitness for each environment. For each environment I ran 50 replicates. We see that the
 fitness in pure cyclic environments is higher than in environments that also have punishment enabled. We also see that
 the fitness in the environment will "zero" cycles is slightly lower. That is simply because in the other environment the organisms
@@ -157,7 +157,7 @@ performed per update.
 
 ![Figure 1](../data_analysis/mean_fitness_per_env(n=50).pdf)
 
-**Reactions**
+**Reactions**       
 The difference between the two cyclic environments can be explained by first the possibility of getting reward in the "wrong"
 cycle and second by the fact that they learn more difficult tasks much earlier. However, the pressure to schedule their metabolism
 is not strong enough, so they perform each task more or less unconditionally and irrespective of the current resource cycle. I think
